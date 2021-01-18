@@ -12,18 +12,18 @@
 #include <algorithm>
 #include <iomanip>
 #include <curl/curl.h>
-
-
+#include <mutex>
+#include <array>
 
 using namespace std;
 fstream file3;
 fstream file2;
 fstream file4;
 fstream file22;
-char buffer[600];
+char buffer[2000];
 char buffer2[50];
-char hb_buffer[600];
-char tls_buffer[1000];
+char hb_buffer[2000];
+char tls_buffer[2000];
 
 std::string str2 ("countryName=US");
 std::string issuer("Issuer: commonName=");
@@ -49,19 +49,37 @@ std::string http_status11 ("HTTP/1.1 307 Moved Temporarily");
 std::string http_status12 ("HTTP/1.1 301");
 std::string http_status13 ("HTTP/1.1 302 Moved Temporarily");
 
-
-
-
-
-
 string certificate_issuer_name(string mystring, string line);
 string http_check(string line); 
 string country_code(string mystring, string line);
 
+string sweet_check = "SWEET32";
+string result1 = "result1";
 
-string country_code(string mystring, string line){
+string sweet_find(string mystring){
+
+   string str1 = mystring;
+   string str2 = "SWEET32";
+   int pos = 0;
+   int index;
+   string sweet_result;
+   if((index = str1.find(str2, pos)) != string::npos) {
+      cout << "Match found at position: " << index << endl;
+      string sweet_result = "VULNERABLE";
+      pos = index + 1; //new position is from next element of index
+      return sweet_result;
+   }else{
+           string sweet_result = " NOT VULNERABLE";
+           return sweet_result;
+      }
+        
+}
+
+string country_code(string mystring, string line)
 {
-        string result1 = "result1";
+      
+string sweet_result = sweet_find(mystring);
+
         if (mystring.find(str2) != std::string::npos) 
         {
                 string test =  "Country Code: US:";
@@ -70,9 +88,8 @@ string country_code(string mystring, string line){
 
         } else if (mystring.find(Country_CH) != std::string::npos) 
         {
-                
                 string test = "Country Code: CH:";
-               
+
                 result1 = test;
         } else if (mystring.find(Country_GB) != std::string::npos) 
         {
@@ -88,10 +105,14 @@ string country_code(string mystring, string line){
                   string test = "Unknown: Unknown:" ;
                   result1 = test;
         }
-        return result1;
-      }
-     
-      
+
+          
+
+                  
+      string result1_final = result1 + "SWEET32;" + sweet_result ; 
+
+      return result1_final;
+   
 }
            
 
@@ -141,7 +162,7 @@ string http_check(string line)
             res = curl_easy_perform(curl);
             curl_easy_cleanup(curl);
 
-                  
+ 
       
        if (readBuffer.find(http_status) != std::string::npos){
               result3 = "HTTP/1.1 301 Moved Permanently";
@@ -167,8 +188,7 @@ string http_check(string line)
              } else if (readBuffer.find(http_status7) != std::string::npos){
              result3 = "HTTP/1.1 302 Found";
 
-
-              } else if (readBuffer.find(http_status8) != std::string::npos){
+             } else if (readBuffer.find(http_status8) != std::string::npos){
              result3 = "HTTP/1.0 301 Moved Permanently";
 
              } else if (readBuffer.find(http_status9) != std::string::npos){
@@ -185,13 +205,12 @@ string http_check(string line)
 
              } else if (readBuffer.find(http_status13) != std::string::npos){
             result3 = "HTTP/1.1 302 Moved Temporarily";
-            
-
 
             }else
             {
                   result3 = "dunno";
             }
+            
             return result3;
       }
 }
@@ -273,11 +292,12 @@ string heartbleed_check(string line){
 }
 
 string tls_check(string line){
+     
 FILE *fpipe;
       string tls_str = "SWEET32";
       char *cstr4 = new char[line.length() + 1];
       strcpy(cstr4, line.c_str());
-      char *tls_command = "nmap -p 443 --script=ssl-enum-ciphers ";
+      char *tls_command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert ";
       char tls_result[1000];
       strcpy(tls_result, tls_command);
       strcat(tls_result,cstr4);
@@ -300,6 +320,7 @@ FILE *fpipe;
                   return tls_return;
                   }
         }
+        
 }
 
 int main()
@@ -309,37 +330,40 @@ int main()
        ifstream testFile("counties.txt");    
        string line;
        while(getline(testFile, line)){
-       cout << " Checking: " << line << '\n';
-        std::replace(line.begin(), line.end(), ',', ' ');
-        stringstream ss(line);
-        //concatinate the county name and the nmap string        
+        
+        file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
+        file2 << line << endl;
         char *cstr = new char[line.length() + 1];
         strcpy(cstr, line.c_str());
-        char *command = "nmap --script ssl-cert -p 443 " ; //issuer
+        char *command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert " ; //issuer
         char result[100]; // array to hold the result.
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.
+       
+        cout << " Checking: " << line << '\n';
         if (0 == (fpipe = (FILE*)popen(result, "r")))
-            {
+                    {
             perror("popen() failed.");
+            cout << " failed: " << line << '\n';
             exit(EXIT_FAILURE);
                   }
             fseek(fpipe , 0, SEEK_END);
             while (fread(buffer, sizeof buffer, 1, fpipe))
                   {
             std::string mystring(buffer);
-            file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
+            string result1 = country_code(mystring, line);
+            string result2 = certificate_issuer_name(mystring, line);
+            string result3 = http_check(line);
+            string result4 = heartbleed_check(line);
+            string result5 = hsts_check(line);
             
-            //string result1 = country_code(mystring, line);
-            //string result2 = certificate_issuer_name(mystring, line);
-            //string result3 = http_check(line);
-            //string result4 = heartbleed_check(line);
-            //string result5 = hsts_check(line);
-            string result6 = tls_check(line);
-            cout << result6 << endl; 
-            //file2 << line << ":" << result1 << ": Certificate Issuer: " << result2 <<  ": http_check:" << result3 << ":Heartbleed: " << result4 << ":hsts_check:" << result5 << endl;
+            //string result6 = tls_check(line);
+                       
+           
+            file2 << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << ";Heartbleed; " << result4 << ";" << ";hsts_check;" << result5 << endl;
             file2.close();
                  }
-      }
+       }
+      
       return 0;
 }
