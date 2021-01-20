@@ -1,0 +1,563 @@
+: Country Code: GB:spartanburgcounty.org
+: Country Code: BE:
+: Country Code: GB:berkeleycountysc.gov
+: Unknown: Unknown:
+: Country Code: GB:orangeburgcounty.org
+: Country Code: GB:williamsburgcounty.sc.gov
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Country Code: CH:bambergcountysc.gov
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Country Code: BE:
+: Country Code: GB:stclairco.com
+: Unknown: Unknown:
+: Country Code: GB:cleburnecounty.us
+: Country Code: BE:
+: Unknown: Unknown:
+: Unknown: Unknown:
+: Country Code: GB:spartanburgcounty.org
+: Country Code: BE:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:02 EST
+Nmap scan report for spartanburgcounty.org (208.90.189.23)
+Host is up (0.041s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.spartanburgcounty.org
+| Subject Alternative Name: DNS:www.spartanburgcounty.org, DNS:spartanburgcounty.org
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid b: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:02 EST
+Nmap scan report for greenvillecounty.org (45.60.6.171)
+Host is up (0.035s latency).
+Other addresses for greenvillecounty.org (not scanned): 45.60.0.171
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=imperva.com
+| Subject Alternative Name: DNS:*.greenvillecounty.org, DNS:greenvillecounty.org, DNS:imperva.com
+| Issuer: commonName=GlobalSign Atlas R3 DV TLS CA 2020/organizationName=GlobalSign nv-sa/countryName=BE
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:02 EST
+Nmap scan report for charlestoncounty.org (68.156.105.71)
+Host is up (0.028s latency).
+rDNS record for 68.156.105.71: 911.charlestoncounty.org
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.charlestoncounty.org/organizationName=COUNTY OF CHARLESTON/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.charlestoncounty.org, DNS:charlestoncounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Key bit: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:02 EST
+Nmap scan report for horrycounty.org (64.138.212.22)
+Host is up (0.026s latency).
+rDNS record for 64.138.212.22: 22.64-138-212-net.sccoast.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.horrycounty.org/organizationName=Horry County Government/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.horrycounty.org, DNS:horrycounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Si: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for berkeleycountysc.gov (98.124.65.169)
+Host is up (0.037s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.berkeleycountysc.gov
+| Subject Alternative Name: DNS:*.berkeleycountysc.gov, DNS:berkeleycountysc.gov
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for colletoncounty.org (67.227.229.161)
+Host is up (0.044s latency).
+rDNS record for 67.227.229.161: lqw-hmweb-01.vc3_2018.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=colletoncounty.org
+| Subject Alternative Name: DNS:colletoncounty.org, DNS:www.colletoncounty.org
+| Issuer: commonName=R3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-12-13T14:29:18
+| Not valid aft: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for clarendoncountygov.org (148.72.111.205)
+Host is up (0.027s latency).
+rDNS record for 148.72.111.205: ip-148-72-111-205.ip.secureserver.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=new.clarendoncountygov.org
+| Subject Alternative Name: DNS:new.clarendoncountygov.org, DNS:autodiscover.new.clarendoncountygov.org, DNS:clarendoncountygov.org, DNS:cpanel.new.clarendoncountygov.org, DNS:cpcalendars.new.clarendoncountygov.org, DNS:cpcontacts.new.clarendoncountygov.org, DNS:mail.claren: Unknown: Unknown:
+doncountygov.org, DNS:mail.new.clarendoncountygov.org, DNS:webdisk.new.clarendoncountygov.org, DNS:webmail.new.clarendoncountygov.org, DNS:www.clarendoncountygov.org, DNS:www.new.clarendoncountygov.org
+| Issuer: commonName=cPanel, Inc. Certification Authority/organizationName=cPanel, Inc./stateOrProvinceName=TX/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-11-19T00:00:00
+| Not valid after:  2021-02-17T23:59:59
+| MD5:   5960 7b30 5e3f c35d 3bb4 b508 7f1c da7b
+|_SHA-1: 7d70 9441 9999 8d45 94a4 5e22 2416 6633 : Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for beaufortcountysc.gov (13.226.101.16)
+Host is up (0.014s latency).
+Other addresses for beaufortcountysc.gov (not scanned): 13.226.101.31 13.226.101.79 13.226.101.128
+rDNS record for 13.226.101.16: server-13-226-101-16.atl52.r.cloudfront.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.beaufortcountysc.gov
+| Subject Alternative Name: DNS:*.beaufortcountysc.gov, DNS:beaufortcountysc.gov
+| Issuer: commonName=Amazon/organizationName=Amazon/countryName=US
+| Public Key type: rsa
+| Publ: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for orangeburgcounty.org (207.38.76.3)
+Host is up (0.044s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.orangeburgcounty.org
+| Subject Alternative Name: DNS:www.orangeburgcounty.org, DNS:orangeburgcounty.org
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before:: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for williamsburgcounty.sc.gov (207.38.75.187)
+Host is up (0.041s latency).
+rDNS record for 207.38.75.187: wcdevboard.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.williamsburgcounty.sc.gov
+| Subject Alternative Name: DNS:www.williamsburgcounty.sc.gov, DNS:williamsburgcounty.sc.gov
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 204: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for oconeesc.com (52.73.23.241)
+Host is up (0.026s latency).
+rDNS record for 52.73.23.241: josheaker.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.oconeesc.com
+| Subject Alternative Name: DNS:oconeesc.com, DNS:www.oconeesc.com
+| Issuer: commonName=R3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-12-27T00:24:24
+| Not valid after:  2021-03-27T00:24:24
+| MD5:   4c: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for newberrycounty.net (64.91.224.38)
+Host is up (0.042s latency).
+rDNS record for 64.91.224.38: lqw-lamp-01.vc3.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=newberrycounty.net
+| Subject Alternative Name: DNS:newberrycounty.net, DNS:www.newberrycounty.net
+| Issuer: commonName=Let's Encrypt Authority X3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-11-17T04:58:24
+|: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for saludacounty.sc.gov (167.7.51.30)
+Host is up (0.020s latency).
+rDNS record for 167.7.51.30: townofbowman.sc.gov
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.sc.gov/organizationName=South Carolina Interactive, LLC/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.sc.gov, DNS:www.schac-dev.sc.gov, DNS:www.schac-test.sc.gov, DNS:www.scdah-dev.sc.gov, DNS:www.scdah-test.sc.gov, DNS:www.sccbank-test.sc.gov, DNS:www.prp-dev.sc.gov, DNS:www.prp-test.sc: Unknown: Unknown:
+.gov, DNS:www.scedp-dev.sc.gov, DNS:www.scedp-test.sc.gov, DNS:www.regulatorystaff-dev.sc.gov, DNS:www.regulatorystaff-test.sc.gov, DNS:www.stmatthews-dev.sc.gov, DNS:www.stmatthews-test.sc.gov, DNS:www.stmatthews.sc.gov, DNS:www.sullivansisland-test.sc.gov, DNS:www.sullivansisland.sc.gov, DNS:www.lex-co-dev.sc.gov, DNS:www.psc-dev.sc.gov, DNS:www.wcc-dev.sc.gov, DNS:www.scdps-dev.sc.gov, DNS:www.townofnorth-dev.sc.gov, DNS:www.psbtraining-dev.sc.gov, DNS:www.scdjj-dev.sc.gov, DNS:www.lex-co-test.sc.gov, DNS:www.psc-test.sc.gov, DNS:www.wcc-test.sc.gov, DNS:www.scdps-test.sc.gov, DNS:www.towno: Unknown: Unknown:
+fnorth-test.sc.gov, DNS:www.psbtraining-test.sc.gov, DNS:www.scdjj-test.sc.gov, DNS:www.scdps.sc.gov, DNS:www.townofnorth.sc.gov, DNS:www.psbtraining.sc.gov, DNS:www.scdjj.sc.gov, DNS:video.psb-demo-dev.sc.gov, DNS:image.psb-demo-dev.sc.gov, DNS:content.psb-demo-dev.sc.gov, DNS:basic.psb-demo-dev.sc.gov, DNS:ssl.staging.sc.gov, DNS:www.careers.sc.gov, DNS:www.careers-test.sc.gov, DNS:www.careers-dev.sc.gov, DNS:www.lacehouse.sc.gov, DNS:www.lacehouse-test.sc.gov, DNS:www.lacehouse-dev.sc.gov, DNS:www.sos-test.sc.gov, DNS:www.sos-dev.sc.gov, DNS:www.cep-test.sc.gov, DNS:www.oig-test.sc.gov, DNS: Unknown: Unknown:
+:www.oig.sc.gov, DNS:www.ethics-test.sc.gov, DNS:www.sctib-test.sc.gov, DNS:www.accessibility-test.sc.gov, DNS:www.lac.sc.gov, DNS:www.cg.sc.gov, DNS:www.banking.sc.gov, DNS:www.bofi.sc.gov, DNS:www.sccja.sc.gov, DNS:www.townofgraycourt.sc.gov, DNS:www.brunson.sc.gov, DNS:www.branchville.sc.gov, DNS:www.calhouncounty.sc.gov, DNS:www.marlborocounty.sc.gov, DNS:www.georgetowncountylibrary.sc.gov, DNS:www.dilloncounty.sc.gov, DNS:www.townofallendale.sc.gov, DNS:www.eoc.sc.gov, DNS:www.ddsn.sc.gov, DNS:www.consumer.sc.gov, DNS:www.governor.sc.gov, DNS:www.lexingtoncountyusa.sc.gov, DNS:www.sck12te: Unknown: Unknown:
+chinit-test.sc.gov, DNS:www.scdcindustries-test.sc.gov, DNS:www.townoflatta-test.sc.gov, DNS:www.townofestill-test.sc.gov, DNS:www.saludacounty-test.sc.gov, DNS:www.edgefieldcounty-test.sc.gov, DNS:www.governor-test.sc.gov, DNS:www.sck12techinit.sc.gov, DNS:www.scdcindustries.sc.gov, DNS:www.townoflatta.sc.gov, DNS:www.townofestill.sc.gov, DNS:www.saludacounty.sc.gov, DNS:www.edgefieldcounty.sc.gov, DNS:www.archives-test.sc.gov, DNS:www.shpo-test.sc.gov, DNS:www.rm-test.sc.gov, DNS:www.archives.sc.gov, DNS:www.shpo.sc.gov, DNS:www.rm.sc.gov, DNS:basic.psb-demo-test.sc.gov, DNS:content.psb-demo: Unknown: Unknown:
+-test.sc.gov, DNS:image.psb-demo-test.sc.gov, DNS:video.psb-demo-test.sc.gov, DNS:basic.psb-demo.sc.gov, DNS:content.psb-demo.sc.gov, DNS:image.psb-demo.sc.gov, DNS:video.psb-demo.sc.gov, DNS:www.abbevillefarmersmarket.sc.gov, DNS:www.allendale.sc.gov, DNS:www.bcls.sc.gov, DNS:www.cityofdillon.sc.gov, DNS:www.cpc.sc.gov, DNS:www.ertf.sc.gov, DNS:www.lakeview.sc.gov, DNS:www.lex-co.sc.gov, DNS:www.psc.sc.gov, DNS:www.regulatorystaff.sc.gov, DNS:www.sccbank.sc.gov, DNS:www.scedp.sc.gov, DNS:www.schac.sc.gov, DNS:www.townofduncan.sc.gov, DNS:www.wcc.sc.gov, DNS:staging.dmvdhr.sc.gov, DNS:sc.gov, : Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for edgefieldcounty.sc.gov (35.209.16.175)
+Host is up (0.049s latency).
+rDNS record for 35.209.16.175: 175.16.209.35.bc.googleusercontent.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=edgefieldcounty.sc.gov
+| Subject Alternative Name: DNS:edgefieldcounty.sc.gov, DNS:www.edgefieldcounty.sc.gov
+| Issuer: commonName=R3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-12-: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for bambergcountysc.gov (67.227.229.161)
+Host is up (0.042s latency).
+rDNS record for 67.227.229.161: lqw-hmweb-01.vc3_2018.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=Plesk/organizationName=Plesk/countryName=CH
+| Issuer: commonName=Plesk/organizationName=Plesk/countryName=CH
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2018-03-02T18:21:13
+| Not valid after:  2019-03-02T18:21:13
+| MD5:   0c37 bf73 11f4 2a96 24b2: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for autaugaco.org (66.155.106.25)
+Host is up (0.064s latency).
+rDNS record for 66.155.106.25: teamingenuity.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.teamingenuity.com
+| Subject Alternative Name: DNS:*.teamingenuity.com, DNS:accma-online.org, DNS:acesfund.org, DNS:autaugaco.org, DNS:awwsb.org, DNS:blountcountyalprobate.com, DNS:ccipe.com, DNS:cityofashville.org, DNS:cityofmuscleshoals.com, DNS:cityofsouthside.com, DNS:cityofwetumpka.com, DNS:colbertgrants.org, DNS:colbertprob: Unknown: Unknown:
+atejudge.org, DNS:dabosallinteam.com, DNS:daboswinneyfootballcamp.com, DNS:dalecountyrevenue.com, DNS:enterpriselibrary.org, DNS:gqc-ga.org, DNS:greenville-bcpl.org, DNS:jeffcoes.org, DNS:lincolnalabama.com, DNS:marywindom.com, DNS:morgancountylicense.com, DNS:mspolice.org, DNS:mycapte.org, DNS:opelikaha.org, DNS:oxfordwater.com, DNS:paysafenetwork.com, DNS:pelhamlibrary.com, DNS:pelhamlibraryguild.com, DNS:pelhamtenniscenter.com, DNS:pikerevenue.com, DNS:rickhayesforpelham.com, DNS:talladega.com, DNS:tallapoosapropertytax.com, DNS:teamingenuity.com, DNS:thebloomgroup.com, DNS:townofragland.or: Unknown: Unknown:
+g, DNS:votewindom.com, DNS:walkercountyprobate.com, DNS:walkercountyrevenue.com, DNS:wetumpka.al.us, DNS:wetumpkaimpactcratercommission.org, DNS:wetumpkalibrary.com, DNS:wetumpkawater.com, DNS:winstoncountyprobate.org, DNS:www.accma-online.org, DNS:www.acesfund.org, DNS:www.autaugaco.org, DNS:www.awwsb.org, DNS:www.blountcountyalprobate.com, DNS:www.ccipe.com, DNS:www.cityofashville.org, DNS:www.cityofmuscleshoals.com, DNS:www.cityofsouthside.com, DNS:www.cityofwetumpka.com, DNS:www.colbertgrants.org, DNS:www.colbertprobatejudge.org, DNS:www.dabosallinteam.com, DNS:www.daboswinneyfootballcamp.: Unknown: Unknown:
+com, DNS:www.dalecountyrevenue.com, DNS:www.enterpriselibrary.org, DNS:www.gqc-ga.org, DNS:www.greenville-bcpl.org, DNS:www.jeffcoes.org, DNS:www.lincolnalabama.com, DNS:www.marywindom.com, DNS:www.morgancountylicense.com, DNS:www.mspolice.org, DNS:www.mycapte.org, DNS:www.opelikaha.org, DNS:www.oxfordwater.com, DNS:www.paysafenetwork.com, DNS:www.pelhamlibrary.com, DNS:www.pelhamlibraryguild.com, DNS:www.pelhamtenniscenter.com, DNS:www.pikerevenue.com, DNS:www.rickhayesforpelham.com, DNS:www.talladega.com, DNS:www.tallapoosapropertytax.com, DNS:www.thebloomgroup.com, DNS:www.townofragland.org: Unknown: Unknown:
+, DNS:www.votewindom.com, DNS:www.walkercountyprobate.com, DNS:www.walkercountyrevenue.com, DNS:www.wetumpka.al.us, DNS:www.wetumpkaimpactcratercommission.org, DNS:www.wetumpkalibrary.com, DNS:www.wetumpkawater.com, DNS:www.winstoncountyprobate.org
+| Issuer: commonName=Let's Encrypt Authority X3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-12-01T16:10:15
+| Not valid after:  2021-03-01T16:10:15
+| MD5:   eb18 49d0 7083 2658 fa02 653e 8214 9af2
+|_SHA-1: 54ab c847 6a14 f173 823a : Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for elmoreco.org (100.24.208.97)
+Host is up (0.027s latency).
+Other addresses for elmoreco.org (not scanned): 35.172.94.1
+rDNS record for 100.24.208.97: staticip2.multiscreensite.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.elmoreco.org
+| Subject Alternative Name: DNS:elmoreco.org, DNS:www.elmoreco.org
+| Issuer: commonName=Let's Encrypt Authority X3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 4096
+| Signature Algorithm: sha256WithRSA: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for chiltoncounty.org (50.28.14.170)
+Host is up (0.042s latency).
+rDNS record for 50.28.14.170: host1.brilliant-dev.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=chiltoncounty.org
+| Subject Alternative Name: DNS:chiltoncounty.org, DNS:www.chiltoncounty.org
+| Issuer: commonName=R3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-12-09T04:52:06
+| Not valid after:  2021-: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for etowahcounty.org (35.237.26.157)
+Host is up (0.022s latency).
+rDNS record for 35.237.26.157: 157.26.237.35.bc.googleusercontent.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=etowahcounty.org
+| Subject Alternative Name: DNS:etowahcounty.org
+| Issuer: commonName=Let's Encrypt Authority X3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-10-28T21:25:17
+| Not valid af: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for coosacountyal.com (144.208.84.146)
+Host is up (0.034s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.usnx.com
+| Subject Alternative Name: DNS:*.usnx.com, DNS:usnx.com
+| Issuer: commonName=AlphaSSL CA - SHA256 - G2/organizationName=GlobalSign nv-sa/countryName=BE
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2017-06-26T17:45:15
+| Not valid after:  2020-08-10T18:26:25
+| MD5:   752f 038b 50de 4d31 9bb1 9b29: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:03 EST
+Nmap scan report for co.escambia.al.us (107.180.55.10)
+Host is up (0.029s latency).
+rDNS record for 107.180.55.10: ip-107-180-55-10.ip.secureserver.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.prod.iad2.secureserver.net
+| Subject Alternative Name: DNS:*.prod.iad2.secureserver.net, DNS:prod.iad2.secureserver.net
+| Issuer: commonName=Starfield Secure Certificate Authority - G2/organizationName=Starfield Technologies, Inc./stateOrProvinceName=Arizona/countryName=US
+| Public Key type: rsa
+| Public K: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:07 EST
+Nmap scan report for spartanburgcounty.org (208.90.189.23)
+Host is up (0.041s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.spartanburgcounty.org
+| Subject Alternative Name: DNS:www.spartanburgcounty.org, DNS:spartanburgcounty.org
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid b: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:07 EST
+Nmap scan report for greenvillecounty.org (45.60.0.171)
+Host is up (0.011s latency).
+Other addresses for greenvillecounty.org (not scanned): 45.60.6.171
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=imperva.com
+| Subject Alternative Name: DNS:*.greenvillecounty.org, DNS:greenvillecounty.org, DNS:imperva.com
+| Issuer: commonName=GlobalSign Atlas R3 DV TLS CA 2020/organizationName=GlobalSign nv-sa/countryName=BE
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:07 EST
+Nmap scan report for charlestoncounty.org (68.156.105.71)
+Host is up (0.029s latency).
+rDNS record for 68.156.105.71: charlestoncountygreenbelt.org
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.charlestoncounty.org/organizationName=COUNTY OF CHARLESTON/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.charlestoncounty.org, DNS:charlestoncounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Ke: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:07 EST
+Nmap scan report for horrycounty.org (64.138.212.22)
+Host is up (0.024s latency).
+rDNS record for 64.138.212.22: 22.64-138-212-net.sccoast.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.horrycounty.org/organizationName=Horry County Government/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.horrycounty.org, DNS:horrycounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Si: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:10 EST
+Nmap scan report for spartanburgcounty.org (208.90.189.23)
+Host is up (0.041s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.spartanburgcounty.org
+| Subject Alternative Name: DNS:www.spartanburgcounty.org, DNS:spartanburgcounty.org
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid b: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:10 EST
+Nmap scan report for greenvillecounty.org (45.60.0.171)
+Host is up (0.013s latency).
+Other addresses for greenvillecounty.org (not scanned): 45.60.6.171
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=imperva.com
+| Subject Alternative Name: DNS:*.greenvillecounty.org, DNS:greenvillecounty.org, DNS:imperva.com
+| Issuer: commonName=GlobalSign Atlas R3 DV TLS CA 2020/organizationName=GlobalSign nv-sa/countryName=BE
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:10 EST
+Nmap scan report for charlestoncounty.org (68.156.105.71)
+Host is up (0.028s latency).
+rDNS record for 68.156.105.71: charlestoncountygreenbelt.org
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.charlestoncounty.org/organizationName=COUNTY OF CHARLESTON/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.charlestoncounty.org, DNS:charlestoncounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Ke: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:10 EST
+Nmap scan report for horrycounty.org (64.138.212.22)
+Host is up (0.024s latency).
+rDNS record for 64.138.212.22: 22.64-138-212-net.sccoast.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.horrycounty.org/organizationName=Horry County Government/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.horrycounty.org, DNS:horrycounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Si: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:14 EST
+Nmap scan report for spartanburgcounty.org (208.90.189.23)
+Host is up (0.041s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.spartanburgcounty.org
+| Subject Alternative Name: DNS:www.spartanburgcounty.org, DNS:spartanburgcounty.org
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid b: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:14 EST
+Nmap scan report for greenvillecounty.org (45.60.6.171)
+Host is up (0.034s latency).
+Other addresses for greenvillecounty.org (not scanned): 45.60.0.171
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=imperva.com
+| Subject Alternative Name: DNS:*.greenvillecounty.org, DNS:greenvillecounty.org, DNS:imperva.com
+| Issuer: commonName=GlobalSign Atlas R3 DV TLS CA 2020/organizationName=GlobalSign nv-sa/countryName=BE
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:14 EST
+Nmap scan report for charlestoncounty.org (68.156.105.71)
+Host is up (0.028s latency).
+rDNS record for 68.156.105.71: charlestoncountygreenbelt.org
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.charlestoncounty.org/organizationName=COUNTY OF CHARLESTON/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.charlestoncounty.org, DNS:charlestoncounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Ke: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:14 EST
+Nmap scan report for horrycounty.org (64.138.212.22)
+Host is up (0.025s latency).
+rDNS record for 64.138.212.22: 22.64-138-212-net.sccoast.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.horrycounty.org/organizationName=Horry County Government/stateOrProvinceName=South Carolina/countryName=US
+| Subject Alternative Name: DNS:*.horrycounty.org, DNS:horrycounty.org
+| Issuer: commonName=GeoTrust RSA CA 2018/organizationName=DigiCert Inc/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Si: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:15 EST
+Nmap scan report for berkeleycountysc.gov (98.124.65.169)
+Host is up (0.037s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.berkeleycountysc.gov
+| Subject Alternative Name: DNS:*.berkeleycountysc.gov, DNS:berkeleycountysc.gov
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:15 EST
+Nmap scan report for colletoncounty.org (67.227.229.161)
+Host is up (0.044s latency).
+rDNS record for 67.227.229.161: lqw-hmweb-01.vc3_2018.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=colletoncounty.org
+| Subject Alternative Name: DNS:colletoncounty.org, DNS:www.colletoncounty.org
+| Issuer: commonName=R3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-12-13T14:29:18
+| Not valid aft: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:15 EST
+Nmap scan report for clarendoncountygov.org (148.72.111.205)
+Host is up (0.027s latency).
+rDNS record for 148.72.111.205: ip-148-72-111-205.ip.secureserver.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=new.clarendoncountygov.org
+| Subject Alternative Name: DNS:new.clarendoncountygov.org, DNS:autodiscover.new.clarendoncountygov.org, DNS:clarendoncountygov.org, DNS:cpanel.new.clarendoncountygov.org, DNS:cpcalendars.new.clarendoncountygov.org, DNS:cpcontacts.new.clarendoncountygov.org, DNS:mail.claren: Unknown: Unknown:
+doncountygov.org, DNS:mail.new.clarendoncountygov.org, DNS:webdisk.new.clarendoncountygov.org, DNS:webmail.new.clarendoncountygov.org, DNS:www.clarendoncountygov.org, DNS:www.new.clarendoncountygov.org
+| Issuer: commonName=cPanel, Inc. Certification Authority/organizationName=cPanel, Inc./stateOrProvinceName=TX/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-11-19T00:00:00
+| Not valid after:  2021-02-17T23:59:59
+| MD5:   5960 7b30 5e3f c35d 3bb4 b508 7f1c da7b
+|_SHA-1: 7d70 9441 9999 8d45 94a4 5e22 2416 6633 : Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:15 EST
+Nmap scan report for beaufortcountysc.gov (13.226.101.128)
+Host is up (0.014s latency).
+Other addresses for beaufortcountysc.gov (not scanned): 13.226.101.16 13.226.101.31 13.226.101.79
+rDNS record for 13.226.101.128: server-13-226-101-128.atl52.r.cloudfront.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=*.beaufortcountysc.gov
+| Subject Alternative Name: DNS:*.beaufortcountysc.gov, DNS:beaufortcountysc.gov
+| Issuer: commonName=Amazon/organizationName=Amazon/countryName=US
+| Public Key type: rsa
+| Pu: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:15 EST
+Nmap scan report for orangeburgcounty.org (207.38.76.3)
+Host is up (0.041s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.orangeburgcounty.org
+| Subject Alternative Name: DNS:www.orangeburgcounty.org, DNS:orangeburgcounty.org
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before:: Unknown: Unknown:
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-12-30 09:15 EST
+Nmap scan report for williamsburgcounty.sc.gov (207.38.75.187)
+Host is up (0.041s latency).
+rDNS record for 207.38.75.187: wcdevboard.com
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=www.williamsburgcounty.sc.gov
+| Subject Alternative Name: DNS:www.williamsburgcounty.sc.gov, DNS:williamsburgcounty.sc.gov
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 204: Unknown: Unknown:
