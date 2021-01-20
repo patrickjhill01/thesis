@@ -1,341 +1,660 @@
-prowerscounty.net
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
-oconeesc.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
-richlandcountysc.gov
-dorchestercountysc.gov
-colletoncounty.org
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-clarendoncountygov.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-beaufortcountysc.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-orangeburgcounty.org
-newberrycounty.net
-edgefieldcounty.sc.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-bambergcountysc.gov
-;Country Code: CH:SWEET32;VULNERABLE; Certificate Issuer; Plesk; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-autaugaco.org
-;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-elmoreco.org
-lowndescountycommission-al.com
-stclairco.com
-dekalbcountyal.us
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-cleburnecounty.us
-sumtercountyal.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; RapidSSL RSA CA 2018; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-crenshawcountyalonline.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-bibbal.com
-mc-ala.org
-co.morgan.al.us
-alabamagis.comBarbour
-pike
-calhouncounty.org
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
-limestonecounty-al.gov
-franklincountyal.org
-henrycountyal.com
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-marion
-maricopa.gov
-coconino.az.gov
-yavapai.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-cochise.az.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-mohavecounty.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
-gilacountyaz.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-yumacountyaz.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-co.greenlee.az.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-http:co.la-paz.az.us
-navajocountyaz.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-santacruzcountyaz.gov
-poinsettcounty.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-lonoke
-chicotcounty.arkansas.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-cleburnecountyar.com
-faulknercounty.org
-bentoncountyar.gov
-hempstead
-little river county
-millercountyar.com
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-hotspringcounty.arkansas.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-ashley county
-lincolncounty.arkansas.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-lawrencecountyarkansas.com
-co.carroll.ar.us
-monroecounty.arkansas.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-dallas county
-lacounty.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo SHA-256 EV Secure Server CA 2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
-contracosta.ca.gov
-;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
-stancounty.com
-solanocounty.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-sjgov.org
-;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-marincounty.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-ocgov.com
-acgov.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-sbcounty.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
-yuba.org
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-yolocounty.org
-kerncounty.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-co.merced.ca.us
-co.shasta.ca.usindex
-cosb.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-tularecounty.ca.gov
-co.modoc.ca.us
-co.siskiyou.ca.us
-co.tehama.ca.us
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-co.del-norte.ca.us
-plumascounty.us
-suttercounty.org
-countyofsb.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-countyofcolusa.org
-mendocinocounty.org
-broomfield.org
-adcogov.org
-;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-bouldercounty.org
-jeffco.us
-co.laplata.co.us
-;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-rbc.us
-co.teller.co.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-gilpincounty.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Trusted Secure Certificate Authority 5; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-colorado.gov
-summitcountyco.gov
-hinsdalecounty.colorado.gov
-kitcarsoncounty.colorado.gov
-conejoscounty.org
-kiowacounty-colorado.com
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-garfield-county.com
-dolorescounty.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; testexp; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-deltacounty.com
-sussexcountyde.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-broward.org
-brevardfl.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-hillsboroughcounty.org
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert TLS RSA SHA256 2020 CA1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-palm beach
-duval couunty
-mywakulla.com
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-volusia.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-co.okaloosa.fl.us
-co.okeechobee.fl.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-pascocountyfl.net
-alachuacounty.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
-hendryfla.net
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-stlucieco.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-claycountygov.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-co.st-johns.fl.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-myglades.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-flaglercounty.org
-;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; web02
-| Public Key type: rsa
-| Public Key bits: 2048
-| Signature Algorithm: sha256WithRSAEncryption
-| Not valid before: 2019-10-15T20:02:27
-| Not valid after:  2020-10-15T00:00:00
-| MD5:   2d66 2c17 e75d 4e66 b7e2 4b05 b194 9b44
-|_SHA-1: c06e 902f 2b9f 1b22 bd47 a328 dceb 532c 8f1e db03
-| ssl-enum-ciphers: 
-|   TLSv1.0: 
-|     ciphers: 
-|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (ecdh_x25519) - A
-|       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
-|       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
-|     compressors: 
-|       NULL
-|     cipher preference: server
-|   TLSv1.1: 
-|     ciphers: 
-|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (ecdh_x25519) - A
-|       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
-|       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
-|     compressors: 
-|       NULL
-|     cipher preference: server
-|   TLSv1.2: 
-|     ciphers: 
-|       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (ecdh_x25519) - A
-|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (ecdh_x25519) - A
-|       TLS_RSA_WITH_AES_256_GCM_SHA384 (rsa 2048) - A
-|       TLS_RSA_WITH_AES_128_GCM_SHA256 (rsa 2048) - A
-|       TLS_RSA_WITH_AES_256_CBC_SHA256 (rsa 2048) - A
-|       TLS_RSA_WITH_AES_128_CBC_SHA256 (rsa 2048) - A
-|       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
-|       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
-|     compressors: 
-|   ; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-sumtercountyfl.gov
-hernandocounty.us
-hardeecounty.net
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
-columbiacountyfla.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
-gadsdencountyfl.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-desotobocc.com
-washingtonfl.com
-marioncountyfl.org
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-co.bay.fl.us
-cms.leoncountyfl.gov
-seminolecountyfl.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-lafayettecountyfl.org
-coweta.ga.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-hallcounty.org
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-fayettecountyga.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-rockdalecountyga.gov
-cobbcounty.org
-twiggscounty.us
-;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-rabuncounty.ga.gov
-lowndescounty.com
-cherokeega.com
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; GeoTrust TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
-toombscountyga.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-bleckley.org
-effinghamcounty.org
-meriwethercountyga.gov
-pickenscountyga.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-doolycountyga.com
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-berriencountygeorgia.com
-metter-candlercounty.com
-clinchcountyga.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-benhillcounty-ga.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
-upsoncountyga.org
-townscountyga.org
-hawkinsville-pulaski.org
-hawaiicounty.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-mauicounty.gov
-honolulu.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-kalawoa
-co.fremont.id.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
-co.bonneville.id.us
-owyheecounty.net
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-latah.id.us
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-shoshonecounty.id.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-co.custer.id.us
-idaho.gov
-goodingcounty.org
-oneidacountyid.com
-jeromecountyid.us
-bearlakecounty.info
-co.jefferson.id.us
-lewiscountyid.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-gemcounty.org
-franklincountyidaho.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-iowacounty.iowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
-blackhawkcounty.iowa.gov
-allamakee.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
-woodburycountyiowa.gov
-pottcounty-ia.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
-fayettecounty.iowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
-storycountyiowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
-co.jasper.ia.us
-chickasawcoia.org
-;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-winneshiekcounty.iowa.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-linncounty.org
-appanoosecounty.iowa.gov
-johnsoncountyiowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
-obriencounty.iowa.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-dubuquecountyiowa.gov
-buenavistacounty.iowa.gov
-paloaltocounty.iowa.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-desmoinescounty.iowa.gov
-ringgoldcounty.us
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-pagecounty.iowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
-osceolacountyia.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-jacksoncounty.iowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
-muscatinecountyiowa.gov
-claytoncountyia.gov
-leecounty.org
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
-co.marshall.ia.us
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
-jonescountyiowa.org
-carrollcountyiowa.gov
-;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-bentoncountyia.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-hamiltoncounty.iowa.gov
-;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
-boonecounty.iowa.gov
+richlandcountysc.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+lex-co.sc.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+spartanburgcounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+greenvillecounty.org;Country Code: BE:SWEET32; NOT VULNERABLE; Certificate Issuer; GlobalSign Atlas R3 DV TLS CA 2020; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+charlestoncounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; GeoTrust RSA CA 2018; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+horrycounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; GeoTrust RSA CA 2018; http_check;HTTP/1.1 302 Found : Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+dorchestercountysc.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+berkeleycountysc.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+colletoncounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+clarendoncountygov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+beaufortcountysc.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+orangeburgcounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+williamsburgcounty.sc.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.pickens.sc.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 500 Internal Server Error;Heartbleed; clear;;hsts_check;No HSTS
+oconeesc.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+newberrycounty.net;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+saludacounty.sc.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+edgefieldcounty.sc.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bambergcountysc.gov;Country Code: CH:SWEET32;VULNERABLE; Certificate Issuer; Plesk; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+autaugaco.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+elmoreco.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+chiltoncounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+etowahcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+coosacountyal.com;Country Code: BE:SWEET32; NOT VULNERABLE; Certificate Issuer; AlphaSSL CA - SHA256 - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.escambia.al.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+lowndescountycommission-al.com;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+blountcountyal.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+stclairco.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+alabamagis.comConecuh;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+dekalbcountyal.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cleburnecounty.us;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+tallaco.com;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+talladegacountyal.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+sumtercountyal.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; RapidSSL RSA CA 2018; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+crenshawcountyalonline.comdefault?pageID=1#;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+bibbal.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+baldwincountyal.govhome;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.cullman.al.us;Country Code: BE:SWEET32; NOT VULNERABLE; Certificate Issuer; AlphaSSL CA - SHA256 - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+pickenscountyal.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dallascounty-al.orgdefault?pageID=2;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+monroecountyonline.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+marengocountyal.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+madisoncountyal.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mc-ala.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jccal.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lauderdalecountyal.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+Choctaw - NA;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+mobilecountyal.gov;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.morgan.al.us;Country Code: BE:SWEET32; NOT VULNERABLE; Certificate Issuer; AlphaSSL CA - SHA256 - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+marshallco.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+shelbyal.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+alabamagis.comBarbour;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+leeco.us;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; EC2AMAZ-C2OVEUI;;;;;;;
+; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS;;;;
+pike;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+colbertcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+fayetteal.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+tuscco.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+calhouncounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+limestonecounty-al.gov;Country Code: BE:SWEET32; NOT VULNERABLE; Certificate Issuer; AlphaSSL CA - SHA256 - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+jacksoncountyal.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+covcounty.com;Country Code: BE:SWEET32; NOT VULNERABLE; Certificate Issuer; AlphaSSL CA - SHA256 - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+houstoncounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Encryption Everywhere DV TLS CA - G1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+butler;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+cherokeecounty-al.gov;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+franklincountyal.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+chamberscountyal.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+henrycountyal.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+marion;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+bullock;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+maconcountyal.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+maricopa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Entrust Certification Authority - L1K; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+webcms.pima.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert Global CA G2; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+coconino.az.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+pinalcountyaz.govPagesHome;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+yavapai.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cochise.az.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mohavecounty.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+gilacountyaz.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+yumacountyaz.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.greenlee.az.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+http:co.la-paz.az.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+graham.az.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+apachecountyaz.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+navajocountyaz.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+santacruzcountyaz.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+arkansas county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+pulaskicounty.net;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+craigheadcounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+washingtoncountyar.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+poinsettcounty.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+lonoke;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+deshacounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+chicotcounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cleburnecountyar.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+prairiecounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+faulknercounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+crittenden.ark.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+bentoncountyar.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+salinecounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+garlandcounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+yellcounty.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+hempstead;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+popecountyar.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions DV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+baxtercounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+little river county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+sevier;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+boonecountyar.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions DV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+stfranciscountyar.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+izardcountyar.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+crosscountyar.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions DV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+whitecountyar.org;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+conwaycountyar.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+ouachita county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+jackson county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+jeffersoncountyar.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+searcy county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+polk county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+sebastiancountyar.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+millercountyar.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+hotspringcounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+ashley county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+van buren;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+mississippicountyar.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+clarkcountyarkansas.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+leecounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lincolncounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lawrencecountyarkansas.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+sharpcounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.carroll.ar.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+marioncounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+bradley county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+phillipscounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+monroecounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dallas county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+randolph county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+calhouncounty.arkansas.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lacounty.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo SHA-256 EV Secure Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+contracosta.ca.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+stancounty.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+sccgov.org;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+solanocounty.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+sjgov.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+marincounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+ocgov.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Network Solutions OV Server CA 2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+placer.ca.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+acgov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+sbcounty.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+yuba.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+yolocounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+buttecounty.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+kerncounty.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.merced.ca.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+smcgov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.fresno.ca.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+saccounty.net;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+humboldtgov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+sf.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+sandiegocounty.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lassen county ;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+calaverasgov.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+ventura.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.shasta.ca.usindex;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+countyofnapa.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+rivco.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+slocounty.ca.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cosb.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+tularecounty.ca.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+amadorgov.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.modoc.ca.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+tuolumnecounty.ca.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+sonomacounty.ca.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert TLS RSA SHA256 2020 CA1; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.siskiyou.ca.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.santa-cruz.ca.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+imperialcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mariposacounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+maderacounty.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.tehama.ca.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.del-norte.ca.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.monterey.ca.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+plumascounty.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+inyocounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+suttercounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+countyofkings.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+countyofsb.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+countyofcolusa.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+edcgov.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 307 Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+mendocinocounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+arapahoegov.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+elpasoco.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Entrust Certification Authority - L1K; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+broomfield.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+weldgov.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Thawte RSA CA 2018; http_check;HTTP/1.1 302 Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+larimer.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+denvergov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Entrust Certification Authority - L1M; http_check;HTTP/1.0 302 Moved Temporarily;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+douglas.co.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+adcogov.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bouldercounty.org;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.routt.co.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+prowerscounty.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+jeffco.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; GeoTrust TLS RSA CA G1; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+oterogov.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.laplata.co.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+rbc.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+pitkincounty.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+moffatcounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+chaffeecounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+gunnisoncounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+custer county;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+eaglecounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; GTS CA 1D2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+huerfano.us;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.teller.co.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+gilpincounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Trusted Secure Certificate Authority 5; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mesacounty.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+summitcountyco.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+elbertcounty-co.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+clearcreekcounty.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+hinsdalecounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+yumacounty.net;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+montezumacounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+kitcarsoncounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lasanimascounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+montrosecounty.net;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+alamosacounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bacacountyco.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; SSL.com RSA SSL subCA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+conejoscounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Encryption Everywhere DV TLS CA - G1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+saguachecounty.net;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Encryption Everywhere DV TLS CA - G1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+archuletacounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+ouraycountyco.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+sedgwickcounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+parkco.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.grand.co.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+logancounty.colorado.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+fremontco.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+kiowacounty-colorado.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+garfield-county.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Trustwave Organization Validation SHA256 CA, Level 1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+county.pueblo.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dolorescounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+deltacounty.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+litchfieldcty.com;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+portal.ct.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+nccde.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.kent.de.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+sussexcountyde.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+broward.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; GlobalSign RSA OV SSL CA 2018; http_check;HTTP/1.1 302 Found : Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+miamidade.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 302 Found : Moved Temporarily;Heartbleed; clear;;hsts_check;No HSTS
+pinellascounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+brevardfl.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+hillsboroughcounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert TLS RSA SHA256 2020 CA1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+palm beach;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+polk-county.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert TLS RSA SHA256 2020 CA1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+duval couunty;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+osceola.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Entrust Certification Authority - L1K; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+mywakulla.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+volusia.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.okaloosa.fl.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+nassaucountyfl.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.okeechobee.fl.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+pascocountyfl.net;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+ircgov.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+alachuacounty.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+hendryfla.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+stlucieco.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+claycountygov.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.st-johns.fl.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+myglades.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+flaglercounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; web02;;;;;;;
+; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS;;;;
+sumtercountyfl.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+myescambia.com;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+santarosa.fl.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; COMODO RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.walton.fl.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+orangecountyfl.net;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+mymanatee.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+hernandocounty.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+suwcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; GlobalSign CloudSSL CA - SHA256 - G3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+hardeecounty.net;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
+columbiacountyfla.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
+gadsdencountyfl.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+desotobocc.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+scgov.net;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+gilchrist.fl.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lakecountyfl.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+washingtonfl.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+monroecounty-fl.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+citrusbocc.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+marioncountyfl.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.bay.fl.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+charlottecountyfl.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+leegov.com;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+cms.leoncountyfl.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+highlandsfl.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+seminolecountyfl.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lafayettecountyfl.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+martin.fl.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+gwinnettcounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Extended Validation Server CA; http_check;HTTP/1.1 302 Object Moved;Heartbleed; clear;;hsts_check;No HSTS
+dekalbcountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+forsythco.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+coweta.ga.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+hallcounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+fayettecountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+rockdalecountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bartowga.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cobbcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+maconbibb.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+paulding.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+glynncounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+habershamga.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+twiggscounty.us;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+rabuncounty.ga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bullochcounty.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+lowndescounty.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+chattoogacounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+cherokeega.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; GeoTrust TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+toombscountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bleckley.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+tattnallcountyga.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+effinghamcounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+catoosa.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+meriwethercountyga.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+fannincountyga.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+pickenscountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+doolycountyga.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+berriencountygeorgia.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+fultoncountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Entrust Certification Authority - L1K; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+tiftcounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+haralsoncountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+metter-candlercounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+schleycountyga.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+clinchcountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+benhillcounty-ga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+upsoncountyga.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+treutlencountyga.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jacksoncountygov.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+glynncounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+screvencountyboc.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+glascockcountyga.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+townscountyga.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+troupcountyga.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+hawkinsville-pulaski.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+echolscountyga.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+sumtercountyga.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+lanier counmty;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+dadecounty-ga.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+oglethorpecountyga.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+elbertga.us;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+hawaiicounty.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mauicounty.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+kauai.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Extended Validation Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+honolulu.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+kalawoa;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+idahocounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+kcgov.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+adacounty.id.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.fremont.id.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
+co.bonneville.id.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+elmorecounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+owyheecounty.net;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+latah.id.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+shoshonecounty.id.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.custer.id.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 500 Internal Server Error;Heartbleed; clear;;hsts_check;No HSTS
+co.nezperce.id.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+idaho.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lemhicountyidaho.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+tetoncountyidaho.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+goodingcounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+idaho.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bannockcounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+twinfallscounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+oneidacountyid.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+cariboucounty.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jeromecountyid.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+boisecounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.blaine.id.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+canyonco.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bearlakecounty.info;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+minidoka.id.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.valley.id.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bonnercountyid.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+payettecounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.madison.id.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;dunno;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+lincolncountyid.us;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.jefferson.id.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+clark-co.id.gov;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.bingham.id.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+boundarycountyid.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.power.id.us;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; not found; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
+clearwatercounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+lewiscountyid.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+gemcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cassiacounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.washington.id.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+idaho.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.0 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.adams.id.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+franklincountyidaho.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+iowacounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+blackhawkcounty.iowa.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+bremercounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+allamakee.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+woodburycountyiowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+polkcountyiowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+poweshiekcounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; poweshiekcountyiaelections.poweshiekconnect.org;;;;;;;
+; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS;;;;
+pottcounty-ia.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+fayettecounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+storycountyiowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;1.1 404 Not Found;Heartbleed; clear;;hsts_check;No HSTS
+co.jasper.ia.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+mahaskacounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+cgcounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+chickasawcoia.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+winneshiekcounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+linncounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+grundycountyiowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+appanoosecounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+winnebagocountyiowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Extended Validation Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+emmetcounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+keokukcounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+wapellocounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+johnsoncountyiowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+obriencounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dubuquecountyiowa.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+humboldtcounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+buenavistacounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+saccounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; RapidSSL RSA CA 2018; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+auduboncounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+paloaltocounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+desmoinescounty.iowa.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+mononacounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+scottcountyiowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+ringgoldcounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+pagecounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+osceolacountyia.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jacksoncounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+muscatinecountyiowa.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+dallascountyiowa.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cedarcounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+claytoncountyia.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+clintoncounty-ia.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+leecounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+co.marshall.ia.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+jonescountyiowa.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dickinsoncountyiowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+carrollcountyiowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bentoncountyia.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+hamiltoncounty.iowa.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+boonecounty.iowa.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+kossuthcounty.iowa.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+cookcountyil.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+Massac County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.sangamon.il.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dupageco.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.st-clair.il.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Entrust Certification Authority - L1K; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+willcountyillinois.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+pulaskicountyil.net/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jodaviess.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+macoupincountyil.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+unioncountyil.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+wincoil.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.madison.il.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+piattcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+tazewell.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; GeoTrust TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+co.iroquois.il.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+grundyco.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+Gallatin County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+peoriacounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+mcleancountyil.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+moultriecountyil.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lakecountyil.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+williamsoncountyil.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dekalbcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dewittcountyill.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+mchenrycountyil.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.champaign.il.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+whiteside.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+countyofkane.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+am.randolphco.org;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jacksoncounty-il.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+fayettecountyillinois.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+rockislandcounty.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+k3county.net;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+bureaucounty-il.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+Richland County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+Johnson County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+perryil.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.kendall.il.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+franklincountyil.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; 000-default.com; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+jeffersoncountyillinois.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; 000-default.com; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.effingham.il.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+monroecountyil.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+clintonco.illinois.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+Wabash County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.macon.il.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+oglecounty.org;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.adams.il.us;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+shelbycounty-il.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Starfield Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+Saline County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.cass.il.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.coles.il.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+vanderburghgov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+warrickcounty.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+tippecanoe.in.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+blackfordcounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.steuben.in.us;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; EC2AMAZ-C2OVEUI;;;;;;;
+; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS;;;;
+kcgov.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+elkhartcounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+indy.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert TLS RSA SHA256 2020 CA1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dearborncounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+gov.pulaskionline.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+sjcindiana.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.dekalb.in.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+clintonco.com;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.hendricks.in.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+nobleco.squarespace.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+boonecounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+morgancounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+laporteco.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+parkecounty-in.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo ECC Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+hancockcoingov.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Thawte RSA CA 2018; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.fulton.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+daviess.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+hamiltoncounty.in.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+wabashcounty.in.gov;Country Code: GB:SWEET32;VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+Fayette County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.johnson.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.delaware.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.shelby.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+howardcountyin.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+allencounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+porterco.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+vermilliongov.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lagrangecounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+poseycountyin.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+tiptongov.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lakecountyin.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+vigocounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+rushcounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+Crawford County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+co.monroe.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+whitecountyin.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Encryption Everywhere DV TLS CA - G1; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+co.cass.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bentoncounty.in.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+carrollcountyindiana.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+madisoncounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+knoxcounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+washingtoncounty.in.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; web02;;;;;;;
+; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS;;;;
+co.marshall.in.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+floydcounty.in.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+co.putnam.in.uscounty/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+jeffersoncounty.in.gov;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+sedgwickcounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+wycokck.orgHome;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+snco.us;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+cowleycounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Amazon; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+pottcounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+ks-sumner.publicaccessnow.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; COMODO RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+leavenworthcounty.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jocogov.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+ks-nemaha.manatron.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; COMODO RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+hodgemancountyks.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+ks-wabaunsee.manatron.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; COMODO RSA Organization Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+finneycounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+govecountyks.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+tregocountyks.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+neoshocountyks.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+nesscountyks.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+greeleycounty.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+chautauquacountyks.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 High Assurance Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+kingmancoks.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+osageco.orgmain/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+labettecounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jfcountyks.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+douglascountyks.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; DigiCert TLS RSA SHA256 2020 CA1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;Strict Trasport Security Found
+Rawlins County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+jacksoncountyks.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+kearnycountykansas.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+dpcountyks.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bucoks.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+rookscounty.net/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+rileycountyks.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+gearycounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+pawneecountykansas.com;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+ellsworthcounty.org;Unknown: Unknown:SWEET32;VULNERABLE; Certificate Issuer; EC2AMAZ-C2OVEUI;;;;;;;
+; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS;;;;
+woodsoncounty.net;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; GeoTrust RSA CA 2018; http_check;HTTP/1.1 302 Redirect;Heartbleed; clear;;hsts_check;No HSTS
+sewardcountyks.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+atchisoncountyks.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+renogov.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+harveycounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+fordcounty.net/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+ellisco.net/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+miamicountyks.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+Montgomery County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+kiowacountyks.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+crawfordcountykansas.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+lyoncounty.orgindex/;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+saline.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+coffeycountyks.org;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+thomascountyks.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+claycountykansas.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+franklincoks.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+mcphersoncountyks.us;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+fayettecountyga.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+breathittcounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+pulaskigov.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+daviessky.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+magoffincounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+louisvilleky.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+jessamineco.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+woodfordcounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+edmonsoncounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+menifeecounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+rockcastlecountyky.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+Owsley County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+barrencounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+callowaycounty-ky.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mccrearycounty.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+bullittcountyky.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Cloudflare Inc ECC CA-3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+letchercounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+triggcounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+kentoncounty.org;Country Code: GB:SWEET32; NOT VULNERABLE; Certificate Issuer; Sectigo RSA Domain Validation Secure Server CA; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+muhlenbergcounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+garrardcounty.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+breckinridgeky.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+metcalfecounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+harlancountytrails.com;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+mccrackencountyky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+brackencounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+bathcounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+warrencountyky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+Fleming County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+hcky.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+robertsoncounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+campbellcountyky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+estillky.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+boonecountyky.org;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+gravescounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+boydcountyky.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+boyleky.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+madisoncountyky.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+oldhamcountyky.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+pikecountyky.gov;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+clarkcoky.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+greenupcountyky.gov;Country Code: US:SWEET32;VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+meadeky.com;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Go Daddy Secure Certificate Authority - G2; http_check;HTTP/1.1 200 OK;Heartbleed; clear;;hsts_check;No HSTS
+franklincounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+Floyd County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+Laurel County;Unknown: Unknown:SWEET32; NOT VULNERABLE; Certificate Issuer; not found; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+laruecounty.org;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; Let's Encrypt Authority X3; http_check;HTTP/1.1 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+hopkinscounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; cPanel, Inc. Certification Authority; http_check;HTTP/1.1 301 Moved Permanently;Heartbleed; clear;;hsts_check;No HSTS
+rcky.us;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; R3; http_check;dunno;Heartbleed; clear;;hsts_check;No HSTS
+gallatincounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS
+trimblecounty.ky.gov;Country Code: US:SWEET32; NOT VULNERABLE; Certificate Issuer; DigiCert SHA2 Secure Server CA; http_check;HTTP/1.0 302 Found;Heartbleed; clear;;hsts_check;No HSTS

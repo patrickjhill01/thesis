@@ -14,7 +14,7 @@
 #include <curl/curl.h>
 #include <mutex>
 #include <array>
-
+#include<unistd.h>
 using namespace std;
 fstream file3;
 fstream file2;
@@ -77,7 +77,7 @@ string sweet_find(string mystring){
 
 string country_code(string mystring, string line)
 {
-      
+cout << mystring;
 string sweet_result = sweet_find(mystring);
 
         if (mystring.find(str2) != std::string::npos) 
@@ -323,35 +323,77 @@ FILE *fpipe;
         
 }
 
+std::string execCommand(string cmd, int& out_exitStatus)
+{
+    out_exitStatus = 0;
+    auto pPipe = ::popen(cmd.c_str(), "r");
+    if(pPipe == nullptr)
+    {
+        throw std::runtime_error("Cannot open pipe");
+    }
+
+    std::array<char, 256> buffer;
+
+    std::string result;
+
+    while(not std::feof(pPipe))
+    {
+        auto bytes = std::fread(buffer.data(), 1, buffer.size(), pPipe);
+        result.append(buffer.data(), bytes);
+    }
+
+    auto rc = ::pclose(pPipe);
+
+    if(WIFEXITED(rc))
+    {
+        out_exitStatus = WEXITSTATUS(rc);
+    }
+
+    return result;
+}
+
+
+
+
 int main()
       {
-       FILE *fpipe;
+        FILE *fpipe;
      
-       ifstream testFile("counties.txt");    
-       string line;
-       while(getline(testFile, line)){
+        ifstream testFile("counties.txt");    
+        string line;
+        while(getline(testFile, line)){
         
         file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
-        file2 << line << endl;
         char *cstr = new char[line.length() + 1];
         strcpy(cstr, line.c_str());
         char *command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert " ; //issuer
         char result[100]; // array to hold the result.
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.
-       
-        cout << " Checking: " << line << '\n';
-        if (0 == (fpipe = (FILE*)popen(result, "r")))
+        int exitStatus = 0;
+        cout << " Checking: " << result << '\n';
+        string mystring = execCommand(result, exitStatus);
+
+        /*if (0 == (fpipe = (FILE*)popen(result, "r")))
                     {
             perror("popen() failed.");
             cout << " failed: " << line << '\n';
             exit(EXIT_FAILURE);
                   }
+            unsigned int microsecond = 1000000;
+            usleep(0 * microsecond);//sleeps for 3 second
             fseek(fpipe , 0, SEEK_END);
+                
             while (fread(buffer, sizeof buffer, 1, fpipe))
-                  {
+            {
+              
             std::string mystring(buffer);
+            if (mystring.empty()){
+                  mystring = "not found";
+            }
+          */
             string result1 = country_code(mystring, line);
+            // usleep(0 * microsecond);//sleeps for 3 second
             string result2 = certificate_issuer_name(mystring, line);
             string result3 = http_check(line);
             string result4 = heartbleed_check(line);
@@ -360,10 +402,10 @@ int main()
             //string result6 = tls_check(line);
                        
            
-            file2 << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << ";Heartbleed; " << result4 << ";" << ";hsts_check;" << result5 << endl;
+            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << ";Heartbleed; " << result4 << ";" << ";hsts_check;" << result5 << endl;
             file2.close();
                  }
        }
       
-      return 0;
-}
+     
+
