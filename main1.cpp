@@ -20,10 +20,11 @@ fstream file3;
 fstream file2;
 fstream file4;
 fstream file22;
-char buffer[2000];
+char buffer[4000];
 char buffer2[50];
-char hb_buffer[2000];
-char tls_buffer[2000];
+
+
+
 
 std::string str2 ("countryName=US");
 std::string issuer("Issuer: commonName=");
@@ -64,7 +65,6 @@ string sweet_find(string mystring){
    int index;
    string sweet_result;
    if((index = str1.find(str2, pos)) != string::npos) {
-      cout << "Match found at position: " << index << endl;
       string sweet_result = "VULNERABLE";
       pos = index + 1; //new position is from next element of index
       return sweet_result;
@@ -77,32 +77,32 @@ string sweet_find(string mystring){
 
 string country_code(string mystring, string line)
 {
-cout << mystring;
+
 string sweet_result = sweet_find(mystring);
 
         if (mystring.find(str2) != std::string::npos) 
         {
-                string test =  "Country Code: US:";
+                string test =  "Country Code; US:";
                 
                 result1 = test;
 
         } else if (mystring.find(Country_CH) != std::string::npos) 
         {
-                string test = "Country Code: CH:";
+                string test = "Country Code; CH:";
 
                 result1 = test;
         } else if (mystring.find(Country_GB) != std::string::npos) 
         {
              
-                  string test = "Country Code: GB:";
+                  string test = "Country Code; GB:";
                
                   result1 = test;
         } else if (mystring.find(Country_BE) != std::string::npos) 
         {
-                  string test = "Country Code: BE:" ;
+                  string test = "Country Code; BE:" ;
                   result1 = test;
         } else {
-                  string test = "Unknown: Unknown:" ;
+                  string test = "Unknown; Unknown:" ;
                   result1 = test;
         }
 
@@ -225,9 +225,10 @@ string hsts_check(string line){
       strcpy(hsts_result,hsts_command); // copy string one into the result.
       strcat(hsts_result,cstr3); // append string two to the result.
       CURL *curl;
-      CURLcode res;
+      CURLcode res; 
+      
       std::string hsts_buffer;
-
+      
       curl = curl_easy_init();
       if(curl) 
       {
@@ -254,74 +255,72 @@ string hsts_check(string line){
 
 
 
-string heartbleed_check(string line){
-      FILE *fpipe;
-      string hb_str = "VULNERABLE";
-      char *cstr2 = new char[line.length() + 1];
-      strcpy(cstr2, line.c_str());
-      string hb_return = "clear";
-      char *hb_command = "nmap -p 443 --script ssl-heartbleed ";
-      char HB_result[100];
-      strcpy(HB_result, hb_command);
-      strcat(HB_result,cstr2);
-      cout << " hb_check line: " << HB_result << '\n';
-      if (0 == (fpipe = (FILE*)popen(HB_result, "r")))
+string heartbleed_check(string mystring){
+string hb_str = "heartbleed";
+if (mystring.find(hb_str) != std::string::npos) 
             {
-            perror("popen() failed.");
-            exit(EXIT_FAILURE);
+              string hb_result = ";Heartbleed;Found";
+              return hb_result;
+} else {
+              string hb_result  = ";Heartbleed;not found";
+              return hb_result;
             }
-      fseek(fpipe , 0, SEEK_END);
-            while (fread(hb_buffer, sizeof hb_buffer, 1, fpipe))
-            {
-                  perror("popen() failed.");
-            exit(EXIT_FAILURE);
-                  }
-            fseek(fpipe , 0, SEEK_END);
-            while (fread(hb_buffer, sizeof hb_buffer, 1, fpipe))
-                  {
-            std::string hb_string(hb_buffer);
-            
-            if (hb_string.find(hb_str) != std::string::npos) 
-                  {
-                string hb_return =  "Vulnerable";
-                  }
-            return hb_return;  
-      }
-
-
-}
-
-string tls_check(string line){
-     
-FILE *fpipe;
-      string tls_str = "SWEET32";
-      char *cstr4 = new char[line.length() + 1];
-      strcpy(cstr4, line.c_str());
-      char *tls_command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert ";
-      char tls_result[1000];
-      strcpy(tls_result, tls_command);
-      strcat(tls_result,cstr4);
-      
-      if (0 == (fpipe = (FILE*)popen(tls_result, "r")))
-            {
-            perror("popen() failed.");
-            exit(EXIT_FAILURE);
-                  }
-            fseek(fpipe , 0, SEEK_END);
-            while (fread(tls_buffer, sizeof tls_buffer, 1, fpipe))
-                  {
-                  std::string tls_string(tls_buffer);
-                  if (tls_string.find(tls_str) != std::string::npos) 
-                   {
-                   string tls_return =  "SWEET32 Vulnerable";
-                   return tls_return;
-                   }else{
-                  string tls_return = "clear";
-                  return tls_return;
-                  }
-        }
+       
         
 }
+
+
+string tls_str = "TLSv1.3";
+string tls_str1 = "TLSv1.2";
+string tls_str2 = "TLSv1.1";
+string tls_str3 = "TLSv1.0";
+
+string tls_check(string mystring){
+
+if (mystring.find(tls_str) != std::string::npos) 
+            {
+              string tls_result = ";TLS;1.3";
+              return tls_result;
+} else if (mystring.find(tls_str1) != std::string::npos) 
+            {
+              string tls_result = ";TLS;1.2";
+              return tls_result;
+
+} else if (mystring.find(tls_str2) != std::string::npos) 
+            {
+              string tls_result = ";TLS;1.1";
+              return tls_result;
+} else if (mystring.find(tls_str3) != std::string::npos) 
+            {
+              string tls_result = ";TLS;1.0";
+              return tls_result;
+    
+    } else {
+           string tls_result = ";TLS;DUNNO";
+           return tls_result;
+
+     }      
+
+}
+
+
+string poodle_check(string mystring)
+{
+string poodle_str = "poodle";
+if (mystring.find(poodle_str) != std::string::npos) 
+            {
+              string poodle_result = "Poodle;Found";
+              return poodle_result;
+            } else {
+              string poodle_result  = "Poodle;not found";
+              return poodle_result;
+            }
+}
+
+
+
+
+
 
 std::string execCommand(string cmd, int& out_exitStatus)
 {
@@ -366,43 +365,26 @@ int main()
         file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
         char *cstr = new char[line.length() + 1];
         strcpy(cstr, line.c_str());
-        char *command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert " ; //issuer
-        char result[100]; // array to hold the result.
+        char *command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert --script=ssl-poodle --script=ssl-heartbleed " ; //issuer
+        char result[200]; // array to hold the result.
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.
         int exitStatus = 0;
-        cout << " Checking: " << result << '\n';
-        string mystring = execCommand(result, exitStatus);
-
-        /*if (0 == (fpipe = (FILE*)popen(result, "r")))
-                    {
-            perror("popen() failed.");
-            cout << " failed: " << line << '\n';
-            exit(EXIT_FAILURE);
-                  }
-            unsigned int microsecond = 1000000;
-            usleep(0 * microsecond);//sleeps for 3 second
-            fseek(fpipe , 0, SEEK_END);
-                
-            while (fread(buffer, sizeof buffer, 1, fpipe))
-            {
-              
-            std::string mystring(buffer);
-            if (mystring.empty()){
-                  mystring = "not found";
-            }
-          */
+        cout << " Checking: " << line << '\n';
+            string mystring = execCommand(result, exitStatus);
+        
             string result1 = country_code(mystring, line);
-            // usleep(0 * microsecond);//sleeps for 3 second
+            string result4 = heartbleed_check(mystring);
             string result2 = certificate_issuer_name(mystring, line);
+            string result7 = poodle_check(mystring);
+            string result6 = tls_check(mystring);
             string result3 = http_check(line);
-            string result4 = heartbleed_check(line);
             string result5 = hsts_check(line);
             
-            //string result6 = tls_check(line);
-                       
+            
+            
            
-            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << ";Heartbleed; " << result4 << ";" << ";hsts_check;" << result5 << endl;
+            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result6 << result4 << ";" << ";hsts_check;" << result5  << ";" << result7 << endl;
             file2.close();
                  }
        }
