@@ -38,7 +38,7 @@ std::string http_status ("HTTP/1.1 301 Moved Permanently");
 std::string http_status1 ("HTTP/1.1 302 Redirect");
 std::string http_status2 ("1.1 404 Not Found");
 std::string hsts_status("Strict-Transport-Security:");
-std::string http_status3 ("HTTP/1.1 200 OK");
+std::string http_status3 ("200");
 std::string http_status4 ("HTTP/1.0 302 Moved Temporarily");
 std::string http_status5 ("HTTP/1.1 302 Found : Moved Temporarily");
 std::string http_status6 ("HTTP/1.1 302 Object Moved");
@@ -82,27 +82,37 @@ string sweet_result = sweet_find(mystring);
 
         if (mystring.find(str2) != std::string::npos) 
         {
-                string test =  "Country Code; US:";
+                string test =  "Country Code; US;";
                 
                 result1 = test;
 
         } else if (mystring.find(Country_CH) != std::string::npos) 
         {
-                string test = "Country Code; CH:";
+                string test = "Country Code; CH;";
 
                 result1 = test;
         } else if (mystring.find(Country_GB) != std::string::npos) 
         {
              
-                  string test = "Country Code; GB:";
+                  string test = "Country Code; GB;";
                
                   result1 = test;
         } else if (mystring.find(Country_BE) != std::string::npos) 
         {
-                  string test = "Country Code; BE:" ;
+                  string test = "Country Code; BE;" ;
                   result1 = test;
+
+         }else if (mystring.find("issuer=C = US") != std::string::npos) 
+        {
+                  string test = "Country Code; US;" ;
+        
+        }else if (mystring.find("issuer=C = RU") != std::string::npos) 
+        {
+                  string test = "Country Code; RU;" ;
+        
+        
         } else {
-                  string test = "Unknown; Unknown:" ;
+                  string test = "Country Code; Unknown;" ;
                   result1 = test;
         }
 
@@ -118,6 +128,8 @@ string sweet_result = sweet_find(mystring);
 
 string certificate_issuer_name(string mystring, string line){
       string result2 = "not found";
+      string amazon = "EC2AMAZ-C2OVEUI";
+      string web02 = "web02";
 if (mystring.find(issuer) != std::string::npos) 
             {
         
@@ -126,9 +138,17 @@ if (mystring.find(issuer) != std::string::npos)
                 string str3 = mystring.substr(s + 19, e - s - 19);
                 result2 = str3;
             }
-       return result2;
-     
-
+      if (result2.find(amazon) != std::string::npos){
+            result2 = "Amazon EC2";
+            return result2;
+                  }else if (result2.find(web02) != std::string::npos) {
+                  result2 = "web02";
+                  return result2;
+                        
+                 } else {
+                       return result2;
+                 }
+   
 
 }
 
@@ -164,7 +184,7 @@ string http_check(string line)
 
  
       
-       if (readBuffer.find(http_status) != std::string::npos){
+       if (readBuffer.find("HTTP/1.1 301 Moved Permanently") != std::string::npos){
               result3 = "HTTP/1.1 301 Moved Permanently";
              
              } else if (readBuffer.find(http_status1) != std::string::npos){
@@ -183,7 +203,7 @@ string http_check(string line)
              result3 = "HTTP/1.1 302 Found : Moved Temporarily";
 
              } else if (readBuffer.find(http_status6) != std::string::npos){
-             result3 = "HTTP/1.1 302 Object Moved";
+             result3 = "HTTP/1.1 302 Object moved";
 
              } else if (readBuffer.find(http_status7) != std::string::npos){
              result3 = "HTTP/1.1 302 Found";
@@ -208,7 +228,7 @@ string http_check(string line)
 
             }else
             {
-                  result3 = "dunno";
+                  result3 = "Unknown";
             }
             
             return result3;
@@ -252,9 +272,6 @@ string hsts_check(string line){
 
 }
 
-
-
-
 string heartbleed_check(string mystring){
 string hb_str = "heartbleed";
 if (mystring.find(hb_str) != std::string::npos) 
@@ -268,7 +285,6 @@ if (mystring.find(hb_str) != std::string::npos)
        
         
 }
-
 
 string tls_str = "TLSv1.3";
 string tls_str1 = "TLSv1.2";
@@ -296,14 +312,12 @@ if (mystring.find(tls_str) != std::string::npos)
               return tls_result;
     
     } else {
-           string tls_result = ";TLS;DUNNO";
+           string tls_result = ";TLS;Unknown";
            return tls_result;
 
      }      
 
 }
-
-
 string poodle_check(string mystring)
 {
 string poodle_str = "poodle";
@@ -316,11 +330,6 @@ if (mystring.find(poodle_str) != std::string::npos)
               return poodle_result;
             }
 }
-
-
-
-
-
 
 std::string execCommand(string cmd, int& out_exitStatus)
 {
@@ -351,8 +360,35 @@ std::string execCommand(string cmd, int& out_exitStatus)
     return result;
 }
 
+string drown_check(string mystring){
 
+      string drown_str = "DROWN";
+      if (mystring.find(drown_str) != std::string::npos) 
+            {
+              string drown_result = ";Drown;Found;";
+              return drown_result;
+            } else {
+              string drown_result  = ";Drown;not found;";
+              return drown_result;
+            
+            }
+      
+}
 
+string freak_check(string mystring){
+
+      string freak_str = "EXPORT";
+      if (mystring.find(freak_str) != std::string::npos) 
+            {
+              string freak_result = ";freak;Found;";
+              return freak_result;
+            } else {
+              string freak_result  = ";freak;not found;";
+              return freak_result;
+            
+            }
+
+}
 
 int main()
       {
@@ -365,7 +401,7 @@ int main()
         file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
         char *cstr = new char[line.length() + 1];
         strcpy(cstr, line.c_str());
-        char *command = "nmap -p 443 --script=ssl-enum-ciphers --script ssl-cert --script=ssl-poodle --script=ssl-heartbleed " ; //issuer
+        char *command = "nmap -p 443 --script=ssl-enum-ciphers,ssl-cert,ssl-poodle,ssl-heartbleed,sslv2-drown " ; //issuer
         char result[200]; // array to hold the result.
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.
@@ -380,11 +416,11 @@ int main()
             string result6 = tls_check(mystring);
             string result3 = http_check(line);
             string result5 = hsts_check(line);
-            
-            
+            string result8 = drown_check(mystring);
+            string result9 = freak_check(mystring);
             
            
-            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result6 << result4 << ";" << ";hsts_check;" << result5  << ";" << result7 << endl;
+            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result6 << result4 << ";" << ";hsts_check;" << result5  << ";" << result7 << result8 << result9 << endl;
             file2.close();
                  }
        }
