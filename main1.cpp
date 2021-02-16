@@ -293,26 +293,13 @@ string tls_str3 = "TLSv1.0";
 
 string tls_check(string mystring){
 
-if (mystring.find(tls_str) != std::string::npos) 
+if (mystring.find("80/tcp  open  http") != std::string::npos) 
             {
-              string tls_result = ";TLS;1.3";
+              string tls_result = ";PORT 80;Open;";
               return tls_result;
-} else if (mystring.find(tls_str1) != std::string::npos) 
-            {
-              string tls_result = ";TLS;1.2";
-              return tls_result;
-
-} else if (mystring.find(tls_str2) != std::string::npos) 
-            {
-              string tls_result = ";TLS;1.1";
-              return tls_result;
-} else if (mystring.find(tls_str3) != std::string::npos) 
-            {
-              string tls_result = ";TLS;1.0";
-              return tls_result;
-    
+   
     } else {
-           string tls_result = ";TLS;Unknown";
+           string tls_result = ";PORT 80;Closed;";
            return tls_result;
 
      }      
@@ -323,10 +310,10 @@ string poodle_check(string mystring)
 string poodle_str = "poodle";
 if (mystring.find(poodle_str) != std::string::npos) 
             {
-              string poodle_result = "Poodle;Found";
+              string poodle_result = "Poodle;Found;";
               return poodle_result;
             } else {
-              string poodle_result  = "Poodle;not found";
+              string poodle_result  = "Poodle;not found;";
               return poodle_result;
             }
 }
@@ -401,7 +388,7 @@ int main()
         file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
         char *cstr = new char[line.length() + 1];
         strcpy(cstr, line.c_str());
-        char *command = "nmap -p 443 --script=ssl-enum-ciphers,ssl-cert,ssl-poodle,ssl-heartbleed,sslv2-drown " ; //issuer
+        char *command = "nmap -p 80,443 --script=ssl-enum-ciphers,ssl-cert,ssl-poodle,ssl-heartbleed,sslv2-drown " ; //issuer
         char result[200]; // array to hold the result.
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.
@@ -420,7 +407,7 @@ int main()
             string result9 = freak_check(mystring);
             
            
-            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result6 << result4 << ";" << ";hsts_check;" << result5  << ";" << result7 << result8 << result9 << endl;
+            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
             file2.close();
                  }
        }
