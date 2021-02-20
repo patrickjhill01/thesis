@@ -130,6 +130,12 @@ string certificate_issuer_name(string mystring, string line){
       string result2 = "not found";
       string amazon = "EC2AMAZ-C2OVEUI";
       string web02 = "web02";
+      string  polsonyouthsoccer = "polsonyouthsoccer.chdcart.com";
+      string  broken = "broken-ssl.multiscreensite.com";
+      string  WEBSVR = "WEBSVR";
+      string  quaycounty = "quaycounty-nm.gov";
+      string  columbiana = "columbiana";
+      string  waynecounty = "waynecountyutah.org";
 if (mystring.find(issuer) != std::string::npos) 
             {
         
@@ -141,13 +147,39 @@ if (mystring.find(issuer) != std::string::npos)
       if (result2.find(amazon) != std::string::npos){
             result2 = "Amazon EC2";
             return result2;
-                  }else if (result2.find(web02) != std::string::npos) {
+       } else if (result2.find(web02) != std::string::npos) {
                   result2 = "web02";
                   return result2;
                         
-                 } else {
-                       return result2;
-                 }
+       } else if (result2.find(polsonyouthsoccer) != std::string::npos) {
+                  result2 = "polsonyouthsoccer.chdcart.com";
+                  return result2;
+                  
+       } else if (result2.find(broken) != std::string::npos) {
+                  result2 = broken;
+                  return result2; 
+                       
+       } else if (result2.find(WEBSVR) != std::string::npos) {
+                  result2 = WEBSVR;
+                  return result2; 
+
+       } else if (result2.find(quaycounty) != std::string::npos) {
+                  result2 = quaycounty;
+                  return result2; 
+       
+       } else if (result2.find(columbiana) != std::string::npos) {
+                  result2 = columbiana;
+                  return result2; 
+       
+       } else if (result2.find(waynecounty) != std::string::npos) {
+                  result2 = waynecounty;
+                  return result2; 
+
+       } else {
+
+      return result2;
+      
+              }
    
 
 }
