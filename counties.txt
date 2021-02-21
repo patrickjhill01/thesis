@@ -8,7 +8,7 @@ co.escambia.al.us
 lowndescountycommission-al.com
 blountcountyal.gov
 stclairco.com
-alabamagis.comConecuh
+alabamagis.com
 dekalbcountyal.us
 cleburnecounty.us
 tallaco.com
@@ -16,7 +16,7 @@ talladegacountyal.org
 sumtercountyal.com
 crenshawcountyalonline.com
 bibbal.com
-baldwincountyal.govhome
+baldwincountyal.gov
 co.cullman.al.us
 pickenscountyal.com
 dallascounty-al.org
@@ -26,14 +26,14 @@ madisoncountyal.gov
 mc-ala.org
 jccal.org
 lauderdalecountyal.gov
-Choctaw - NA
+butleralabama.org
 mobilecountyal.gov
 co.morgan.al.us
 marshallco.org
 shelbyal.com
 alabamagis.com
 leeco.us
-pike
+troyal.gov
 colbertcounty.org
 fayetteal.org
 tuscco.com
@@ -42,21 +42,21 @@ limestonecounty-al.gov
 jacksoncountyal.gov
 covcounty.com
 houstoncounty.org
-butler
+montgomeryal.gov
 cherokeecounty-al.gov
 franklincountyal.org
 chamberscountyal.gov
 henrycountyal.com
-marion
-bullock
+birminghamal.gov
+auburnalabama.org
 maconcountyal.com
 alabama.gov
-arkansas county
+cityofsearcy.org
 pulaskicounty.net
 craigheadcounty.org
 washingtoncountyar.gov
 poinsettcounty.us
-lonoke
+littlerock.com
 deshacounty.arkansas.gov
 chicotcounty.arkansas.gov
 cleburnecountyar.com
@@ -67,27 +67,27 @@ bentoncountyar.gov
 salinecounty.org
 garlandcounty.org
 yellcounty.net
-hempstead
+bentonvillear.com
 popecountyar.gov
 baxtercounty.org
-little river county
-sevier
+cityofparagould.com
+fayetteville-ar.gov
 boonecountyar.com
 stfranciscountyar.org
 izardcountyar.org
 crosscountyar.org
 whitecountyar.org
 conwaycountyar.com
-ouachita county
-jackson county
+cityhs.net
+fortsmith.org
 jeffersoncountyar.gov
-searcy county
-polk county
+jonesboro.org
+conwayarkansas.gov
 sebastiancountyar.gov
 millercountyar.com
 hotspringcounty.arkansas.gov
-ashley county
-van buren
+rogersar.gov
+cityofharrison.com
 mississippicountyar.org
 clarkcountyarkansas.com
 leecounty.arkansas.gov
@@ -96,11 +96,11 @@ lawrencecountyarkansas.com
 sharpcounty.arkansas.gov
 co.carroll.ar.us
 marioncounty.arkansas.gov
-bradley county
+russellvillearkansas.org
 phillipscounty.arkansas.gov
 monroecounty.arkansas.gov
-dallas county
-randolph county
+springdalear.gov
+cityofpinebluff-ar.gov
 calhouncounty.arkansas.gov
 maricopa.gov
 webcms.pima.gov
@@ -140,7 +140,7 @@ saccounty.net
 humboldtgov.org
 sf.gov
 sandiegocounty.gov
-lassen county
+cityofsusanville.net
 calaverasgov.us
 ventura.org
 co.shasta.ca.usindex
@@ -192,7 +192,7 @@ pitkincounty.com
 moffatcounty.colorado.gov
 chaffeecounty.org
 gunnisoncounty.org
-custer county
+denvergov.org
 eaglecounty.us
 huerfano.us
 co.teller.co.us
@@ -235,9 +235,9 @@ miamidade.gov
 pinellascounty.org
 brevardfl.gov
 hillsboroughcounty.org
-palm beach
+miamigov.com
 polk-county.net
-duval couunty
+orlando.gov
 osceola.org
 mywakulla.com
 volusia.org
@@ -328,7 +328,7 @@ troupcountyga.gov
 hawkinsville-pulaski.org
 echolscountyga.com
 sumtercountyga.us
-lanier counmty
+atlantaga.gov
 dadecounty-ga.gov
 oglethorpecountyga.gov
 elbertga.us
@@ -337,7 +337,7 @@ hawaiicounty.gov
 mauicounty.gov
 kauai.gov
 honolulu.gov
-kalawoa
+kapolei.com
 portal.ehawaii.gov
 iowa.gov
 idahocounty.org
@@ -351,11 +351,11 @@ latah.id.us
 shoshonecounty.id.gov
 co.custer.id.us
 co.nezperce.id.us
-idaho.gov
+cityofboise.org
 lemhicountyidaho.org
 tetoncountyidaho.gov
 goodingcounty.org
-idaho.gov
+idahofallsidaho.gov
 bannockcounty.us
 twinfallscounty.org
 oneidacountyid.com
@@ -385,7 +385,7 @@ idaho.gov
 co.adams.id.us
 franklincountyidaho.org
 cookcountyil.gov
-Massac County
+metropolisil.gov
 co.sangamon.il.us
 dupageco.org
 co.st-clair.il.us
@@ -400,7 +400,7 @@ piattcounty.org
 tazewell.com
 co.iroquois.il.us
 grundyco.org
-Gallatin County
+chicago.gov
 peoriacounty.org
 mcleancountyil.gov
 moultriecountyil.com
@@ -418,8 +418,8 @@ fayettecountyillinois.org
 rockislandcounty.org
 k3county.net
 bureaucounty-il.gov
-Richland County
-Johnson County
+peoriagov.org
+cityofelgin.org
 perryil.com
 co.kendall.il.us
 franklincountyil.gov
@@ -427,13 +427,13 @@ jeffersoncountyillinois.com
 co.effingham.il.us
 monroecountyil.gov
 clintonco.illinois.gov
-Wabash County
+naperville.il.us
 co.macon.il.us
 oglecounty.org
 co.adams.il.us
 shelbycounty-il.com
-Saline County
-co.cass.il.us
+champaignil.gov
+joliet.gov
 co.coles.il.us
 www2.illinois.gov
 vanderburghgov.org
@@ -460,7 +460,7 @@ co.fulton.in.us
 daviess.org
 hamiltoncounty.in.gov
 wabashcounty.in.gov
-Fayette County
+connersvillecommunity.com
 co.johnson.in.us
 co.delaware.in.us
 co.shelby.in.us
@@ -474,7 +474,7 @@ tiptongov.com
 lakecountyin.org
 vigocounty.in.gov
 rushcounty.in.gov
-Crawford County
+indy.gov
 co.monroe.in.us
 whitecountyin.us
 co.cass.in.us
@@ -540,7 +540,7 @@ hamiltoncounty.iowa.gov
 boonecounty.iowa.gov
 kossuthcounty.iowa.gov
 sedgwickcounty.org
-wycokck.orgHome
+wycokck.org
 snco.us
 cowleycounty.org
 pottcounty.org
@@ -558,11 +558,11 @@ nesscountyks.com
 greeleycounty.org
 chautauquacountyks.com
 kingmancoks.org
-osageco.orgmain/
+osageco.org
 labettecounty.com
 jfcountyks.com
 douglascountyks.org
-Rawlins County
+topeka.org
 jacksoncountyks.com
 kearnycountykansas.com
 dpcountyks.com
@@ -580,10 +580,10 @@ harveycounty.com
 fordcounty.net
 ellisco.net
 miamicountyks.org
-Montgomery County
+wichita.gov
 kiowacountyks.org
 crawfordcountykansas.org
-lyoncounty.orgindex/
+lyoncounty.org
 saline.org
 coffeycountyks.org
 thomascountyks.gov
@@ -602,7 +602,7 @@ woodfordcounty.ky.gov
 edmonsoncounty.ky.gov
 menifeecounty.ky.gov
 rockcastlecountyky.com
-Owsley County
+louisvilleky.gov
 barrencounty.ky.gov
 callowaycounty-ky.gov
 mccrearycounty.com
@@ -619,7 +619,7 @@ mccrackencountyky.gov
 brackencounty.ky.gov
 bathcounty.ky.gov
 warrencountyky.gov
-Fleming County
+bgky.org
 hcky.org
 robertsoncounty.ky.gov
 campbellcountyky.gov
@@ -635,8 +635,8 @@ clarkcoky.com
 greenupcountyky.gov
 meadeky.com
 franklincounty.ky.gov
-Floyd County
-Laurel County
+paducahky.gov
+owensboro.org
 laruecounty.org
 hopkinscounty.ky.gov
 rcky.us
@@ -662,35 +662,35 @@ stpgov.org
 sjbparish.com
 stcharlesparish-la.gov
 tpcg.org
-louisiana.gov
+cityofalexandriala.com
 jeffersondavis.org
-louisiana.gov
+hammond.org
 stmartinparish.net
 tangipahoa.org
 stjamesla.com
-louisiana.gov
-louisiana.gov
+nola.gov
+lafayettela.gov
 felicianatourism.org
-louisiana.gov
+bossiercity.org
 livingstonparishla.gov
 stmaryparishla.gov
 sthelenaparish.la.gov
 bienvilleparish.org
-louisiana.gov
-louisiana.gov
+welcometo.metairie.com
+ruston.org
 npgov.org
 vermilion.org
-louisiana.gov
+natchitochesla.gov
 allenparish.com
 jeffparish.net
-louisiana.gov
-louisiana.gov
+sulphur.org
+kenner.la.us
 lincolnparish.org
 ascensionparish.net
 louisiana.gov
 claiborneparish.org
 louisiana.gov
-louisiana.gov
+cityofmandeville.com
 mass.gov
 maine.gov
 aacounty.org
@@ -835,13 +835,13 @@ mcmo.us
 mo.gov
 adamscountyms.net
 alcorncounty.org
-amitecounty.ms/
+amitecounty.ms
 attalacounty.net
 bentoncountyms.gov
 co.bolivar.ms.us
 calhouncoms.com
 carrollcountyms.org
-Chickasaw Count
+jacksonms.gov
 forrestcountyms.us
 co.harrison.ms.us
 hindscountyms.com
@@ -877,7 +877,7 @@ bighorncountymt.gov
 townsendmt.com
 mcconecountymt.com
 glaciercountygov.com
-Golden Valley County
+helenamt.gov
 musselshellcounty.org
 prco.mt.gov
 falloncounty.net
@@ -892,7 +892,7 @@ rosebudcountymt.gov
 valleycountymt.net
 madisoncountymt.gov
 toolecountymt.gov
-Wibaux County
+ci.billings.mt.us
 jeffersoncounty-mt.gov
 powellcountymt.gov
 parkcounty.org
@@ -905,9 +905,9 @@ phillco.org
 prairiecounty.org
 lincolncountymt.us
 co.granite.mt.us
-Daniels County
+bozeman.net
 cartercountymontana.squarespace.com
-Treasure County
+ci.missoula.mt.us
 mt.gov
 wakegov.com
 mecknc.gov
@@ -935,7 +935,7 @@ co.iredell.nc.us
 alamance-nc.com
 halifaxnc.com
 wataugacounty.org
-forsyth.cc/
+forsyth.cc
 co.surry.nc.us
 hokecounty.org
 haywoodcountync.gov
@@ -971,7 +971,7 @@ co.mountrail.nd.us
 co.traill.nd.us
 emmonsnd.com
 rolettecounty.com
-Kidder Count
+bismarcknd.gov
 mchenrycountynd.com
 bensoncountynd.com
 williamsnd.com
@@ -983,7 +983,7 @@ griggscountynd.gov
 co.ward.nd.us
 starkcountynd.gov
 goldenvalleycounty.org
-Sioux County
+fargond.gov
 co.walsh.nd.us
 pembinacountynd.gov
 co.ramsey.nd.us
@@ -997,20 +997,20 @@ piercecountynd.gov
 dividecountynd.org
 burkecountynd.com
 logancountynd.com
-Eddy County 
+minotnd.org
 county.mckenziecounty.net
 bowmannd.com
 mcleancountynd.gov
 billingscountynd.gov
 wellscountynd.com
 ransomcountynd.net
-Adams County
+minotnd.org
 nelsonco.org
 dunncountynd.org
 mercercountynd.com
 sargentnd.com
 mcintoshnd.com
-Slope County
+minotnd.org
 grantcountynd.com
 nd.gov
 sarpy.com
@@ -1065,7 +1065,7 @@ adamscounty.org
 cheyennecountyne.net
 co.boone.ne.us
 nebraska.gov
-hcnh.org
+concordnh.gov
 hcnh.org
 rockinghamcountynh.org
 belknapcounty.org
@@ -1076,7 +1076,7 @@ co.strafford.nh.us
 co.cheshire.nh.us
 sullivancountynh.gov
 carrollcountynh.net
-hcnh.org
+manchesternh.gov
 nh.gov
 co.bergen.nj.us
 co.somerset.nj.us
@@ -1110,7 +1110,7 @@ taoscounty.org
 catroncounty.us
 donaanacounty.org
 co.otero.nm.us
-De Baca Count
+cabq.gov
 currycounty.org
 co.eddy.nm.us
 chavescounty.gov
@@ -1139,7 +1139,7 @@ washoecounty.us
 nyecounty.net
 nyecounty.net
 hcnv.us
-Carson City
+reno.gov
 elkocountynv.net
 whitepinecounty.net
 churchillcountynv.gov
@@ -1230,7 +1230,7 @@ mcohio.org
 medinaco.org
 fayette-co-oh.com
 meigscountyohio.com
-Wyandot County
+columbus.gov
 prebco.org
 portagecounty-oh.gov
 putnamcountyohio.gov
@@ -1241,7 +1241,7 @@ co.champaign.oh.us
 co.knox.oh.us
 eriecounty.oh.gov
 pauldingcountyoh.com
-Scioto County
+city.cleveland.oh.us
 co.highland.oh.us
 unioncountyohio.gov
 co.wood.oh.us
@@ -1255,56 +1255,56 @@ defiance-county.com
 ashlandcountyoh.us
 ohio.gov
 oklahomacounty.org
-Pushmataha County
+okc.gov
 canadiancounty.org
 pontotoc.okcounties.org
-Okfuskee County
-McCurtain County
-McIntosh County
-Caddo County
+cityoftulsa.org
+normanok.gov
+edmondok.com
+lawtonok.gov
 okmulgeeonline.com
 pottawatomiecountyok.com
-Muskogee County
+stillwater.org
 pittsburg.okcounties.org
 ok.gov
-Sequoyah County
+cityofmoore.com
 atokaok.org
-Le Flore County
-Roger Mills County
+cityofmuskogee.com
+brokenarrowok.gov
 custer.okcounties.org
-Latimer County
-Tillman County 
+adaok.com
+ardmore.org
 mayes.okcounties.org
 kiowacountyok.us
-Garvin County
-Washita County
+yukonok.gov
+durant.org
 osage.okcounties.org
 clevelandcountyok.com
 mcclain-co-ok.us
 comanchecounty.us
-Choctaw County
+cityofmcalester.com
 tulsacounty.org
-Cimarron County
+cityofbartlesville.org
 texas.okcounties.org
 pawneecounty.org
-Bryan County
+cityofduncan.com
 logancountyok.com
 delaware.okcounties.org
 creekcountyonline.com
 rogerscounty.org
 nowata.com
-Major County
+altusok.gov
 cartercountyok.us
 paynecounty.org
-Alfalfa County
-Kingfisher County 
-Grady County
+cityofowasso.com
+cityoftahlequah.com
+claremorecity.com
 stephenscountyok.com
-Murray County
+poncacityok.gov
 beaver.okcounties.org
 blaine.okcounties.org
-Craig County
-Lincoln County
+poteau-ok.com
+chickasha.org
 oklahoma.gov
 multco.us
 clackamas.us
@@ -1371,7 +1371,7 @@ day.sdcounties.org
 pennco.org
 charlesmix.sdcounties.org
 beadle.sdcounties.org
-Jerauld County
+siouxfalls.org
 bonhommecounty.org
 brulecounty.org
 deuelcountysd.com
@@ -1383,7 +1383,7 @@ brookingscountysd.gov
 kingsburycountysd.org
 fallriver.sdcounties.org
 corson.sdcounties.org
-Sanborn County
+cityofpierre.org
 haakon.sdcounties.org
 faulktonsd.com
 walworthco.org
@@ -1396,26 +1396,26 @@ lincolncountysd.org
 davisoncounty.org
 lawrence.sd.us
 lake.sd.gov
-Jones County
+cityofbrookings.org
 hughescounty.org
-Mellette County
+cityofdeadwood.com
 claycountysd.org
-Buffalo County
+aberdeen.sd.us
 buttesd.org
 mcpherson.sdcounties.org
 unioncountysd.org
 marshall.sdcounties.org
 co.yankton.sd.us
-Dewey County
-Potter County
-Hanson County
+watertownsd.us
+cityofyankton.org
+cityofmitchell.org
 hand.sdcounties.org
-Hutchinson County
+cityofspearfish.com
 gregory.sdcounties.org
-Jackson County 
+sturgis-sd.gov
 minercountysd.org
 moodycounty.net
-Harding County
+vermillion.us
 sd.gov
 tn.gov
 texas.gov
@@ -1491,7 +1491,7 @@ kane.utah.gov
 morgan-county.net
 ironcounty.net
 grandcountyutah.net
-carbon.utah.gov
+parkcity.org
 sanjuancounty.org
 garfield.utah.gov
 emerycounty.com
@@ -1517,7 +1517,7 @@ co.alleghany.va.us
 rockinghamcountyva.gov
 pittsylvaniacountyva.gov
 chesterfield.gov
-charlottesville.gov
+richmondgov.com
 charlottesville.gov
 fcva.us
 fluvannacounty.org
@@ -1561,14 +1561,14 @@ lcpcvt.org
 rutlandcity.org
 grandislevt.org
 vermont.com
-Washington County
+montpelier-vt.org
 orangevt.org
 addisoncounty.com
 essexvt.org
 windhamregional.org
 fcrccvt.com
 co.grafton.nh.us
-Cumberland Count
+burlingtonvt.gov
 access.wa.gov
 pendoreilleco.org
 kingcounty.gov
@@ -1863,3 +1863,148 @@ marlborocounty.sc.gov
 dilloncounty.sc.gov
 countyofunion.org
 mccormickcountysc.org
+mobile.org
+huntsvilleal.gov
+tuscaloosa.com
+gulfshoresal.gov
+dothan.org
+orangebeachal.gov
+cityofdecatural.com
+cullmanal.gov
+opelika-al.gov
+cityofgadsden.com
+cityoffoley.org
+fairhopeal.gov
+hooveral.org
+annistonal.gov
+prattvilleal.gov
+phenixcityal.us
+daphneal.com
+cityofmuscleshoals.com
+guntersvilleal.org
+fortpayne.org
+cityofwetumpka.com
+cityofscottsboro.com
+cityofalabaster.com
+monroevilleal.gov
+cityofcalera.org
+cityofspanishfort.com
+vhal.org
+cityofgardendale.com
+cityofcentre.com
+cityofbrewton.org
+alexandercityal.gov
+townofdauphinisland.org
+sylacauga.net
+welcometoatmore.com
+pell-city.com
+saraland.org
+fultondale.com
+clanton.al.us
+anchorage.net
+fairbanksalaska.us
+north-slope.org
+ktn-ak.us
+northpolealaska.com
+homeralaska.org
+nomealaska.org
+cityofwasilla.com
+seward.com
+city.kodiak.ak.us
+kenai.city
+palmerak.org
+soldotna.org
+skagway.com
+whittieralaska.gov
+cityofbethel.org
+valdezalaska.org
+travelalaska.com
+deltajunction.us
+ci.unalaska.ak.us
+cityofcordova.net
+prudhoebay.com
+cityofkotzebue.com
+adak-ak.us
+charlottenc.gov
+raleighnc.gov
+wilmingtonnc.gov
+ashevillenc.gov
+greensboro-nc.gov
+carolinabeach.org
+fayettevillenc.gov
+durhamnc.gov
+townofcary.org
+townofchapelhill.org
+townofboone.net
+cityofws.org
+concordnc.gov
+highpointnc.gov
+cityofgastonia.com
+rockymountnc.gov
+mooresvillenc.gov
+hendersonvillenc.gov
+newbernnc.gov
+goldsboronc.gov
+wilsonnc.org
+statesvillenc.net
+apexnc.org
+ci.lumberton.nc.us
+home.army.mil
+asheboronc.gov
+huntersville.org
+wakeforestnc.gov
+morgantonnc.gov
+waynesvillenc.gov
+ci.kinston.nc.us
+cityofec.com
+visitmayberry.com
+hollyspringsnc.us
+garnernc.gov
+pinehurst.com
+toknc.com
+emeraldisle-nc.org
+ci.lincolnton.nc.us
+kannapolisnc.gov
+oibgov.com
+cityofsouthport.com
+cityofmebane.com
+moreheadcitync.org
+blowingrock.com
+cityofbrevard.com
+sylvanc.govoffice3.com
+fuquay-varina.org
+roanokerapidsnc.com
+outerbanks.com
+charlestoncvb.com
+columbiasc.net
+myrtlebeach.com
+greenvillesc.gov
+hiltonheadisland.org
+cityofspartanburg.org
+tompsc.com
+cityofflorence.com
+summervillesc.gov
+cityofbeaufort.org
+cityofrockhill.com
+lexsc.com
+cityofaikensc.gov
+sumtersc.gov
+townofbluffton.sc.gov
+fortmillsc.gov
+cityofconway.com
+cityofgreer.org
+simpsonville.com
+orangeburg.sc.us
+cityofeasley.com
+northcharleston.org
+getintogaffney.com
+rutlandcity.org
+brattleboro.com
+benningtonvt.org
+woodstockvt.com
+manchester-vt.gov
+town.williston.vt.us
+stalbansvt.com
+barrecity.org
+townofmiddlebury.org
+

@@ -136,6 +136,9 @@ string certificate_issuer_name(string mystring, string line){
       string  quaycounty = "quaycounty-nm.gov";
       string  columbiana = "columbiana";
       string  waynecounty = "waynecountyutah.org";
+      string pad911 =  "pad911.paducahky.gov";
+      string gaffney = " getintogaffney.com";
+
 if (mystring.find(issuer) != std::string::npos) 
             {
         
@@ -173,6 +176,14 @@ if (mystring.find(issuer) != std::string::npos)
        
        } else if (result2.find(waynecounty) != std::string::npos) {
                   result2 = waynecounty;
+                  return result2; 
+
+      } else if (result2.find(pad911) != std::string::npos) {
+                  result2 = pad911;
+                  return result2; 
+       
+       } else if (result2.find(gaffney) != std::string::npos) {
+                  result2 = gaffney;
                   return result2; 
 
        } else {
@@ -409,6 +420,9 @@ string freak_check(string mystring){
 
 }
 
+
+
+
 int main()
       {
         FILE *fpipe;
@@ -438,10 +452,11 @@ int main()
             string result8 = drown_check(mystring);
             string result9 = freak_check(mystring);
             
-           
             file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
             file2.close();
                  }
+
+      system ("./openssl")     ;     
        }
       
      
