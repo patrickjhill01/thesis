@@ -93,16 +93,17 @@ string state_issuer(string mystring)
 }
 
 
-
-
 int main()
       {
         FILE *fpipe;
      
-        ifstream testFile("counties.txt");    
+        ifstream testFile("counties.txt"); 
+       
         string line;
         string line2;
+        
         while(getline(testFile, line)){
+          
         line2 = line;
         file2.open ("./openssl_file.csv", fstream::in | fstream::out | fstream::app);      
         char *cstr = new char[line.length() + 1];

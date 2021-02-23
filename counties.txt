@@ -963,11 +963,11 @@ grahamcounty.org
 nc.gov
 burleighco.com
 casscountynd.gov
-co.stutsman.nd.us
+www.co.stutsman.nd.us
 gfcounty.nd.gov
 co.richland.nd.us
 lamourecountynd.com
-co.mountrail.nd.us
+www.co.mountrail.nd.us
 www.co.traill.nd.us
 emmonsnd.com
 rolettecounty.com
@@ -1045,11 +1045,11 @@ dakotacountyne.org
 thayercountyne.gov
 hallcountyne.gov
 buffalocounty.ne.gov
-www.grant.mipsweb.info
+grant.mipsweb.info
 co.pawnee.ne.us
 fillmorecounty.org
 co.sioux.ne.us
-co.cedar.ne.us
+www.co.cedar.ne.us
 madisoncountyne.com
 plattecounty.net
 www.cassne.org
@@ -1114,7 +1114,7 @@ cabq.gov
 currycounty.org
 co.eddy.nm.us
 chavescounty.gov
-santafecountynm.gov
+www.santafecountynm.gov
 socorrocounty.net
 co.sanmiguel.nm.us
 co.mckinley.nm.us
@@ -1174,7 +1174,7 @@ ocgov.net
 ulstercountyny.gov
 steubencony.org
 rensco.com
-tiogacountyny.com
+www.tiogacountyny.com
 schuylercounty.us
 cortland-co.org
 delcony.us
@@ -1209,7 +1209,7 @@ co.geauga.oh.us
 mahoningcountyoh.gov
 franklincountyohio.gov
 lakecountyohio.gov
-co.ashtabula.oh.us
+www.co.ashtabula.oh.us
 pickaway.org
 www2.auglaizecounty.org
 muskingumcountyoh.gov
@@ -1223,7 +1223,7 @@ hamiltoncountyohio.gov
 gallianet.net
 vintoncounty.com
 co.fairfield.oh.us
-coshoctoncounty.net
+www.coshoctoncounty.net
 mydarkecounty.com
 richlandcountyoh.gov
 mcohio.org
@@ -1311,7 +1311,7 @@ clackamas.us
 deschutes.org
 co.coos.or.us
 co.hood-river.or.us
-malheurco.org
+www.malheurco.org
 co.washington.or.us
 co.harney.or.us
 co.clatsop.or.us
@@ -1446,8 +1446,8 @@ co.wilbarger.tx.us
 brazoriacountytx.gov
 co.san-patricio.tx.us
 co.jim-wells.tx.us
-somervell.com
-co.panola.tx.us
+www.somervell.com
+www.co.panola.tx.us
 co.willacy.tx.us
 co.hansford.tx.us
 co.lavaca.tx.us
@@ -1459,7 +1459,7 @@ dentoncounty.gov
 co.culberson.tx.us
 co.jeff-davis.tx.us
 co.matagorda.tx.us
-www.eastlandcountytexas.comm
+www.eastlandcountytexas.com
 milamcounty.net
 wilco.org
 co.dewitt.tx.us
@@ -1767,7 +1767,7 @@ ccpa.net
 dauphincounty.org
 delcopa.gov
 co.elk.pa.us
-eriecountypa.gov
+www.eriecountypa.gov
 fayettecountypa.org
 co.forest.pa.us
 franklincountypa.gov
@@ -1796,7 +1796,7 @@ pikepa.org
 pottercountypa.net
 co.schuylkill.pa.us
 snydercounty.org
-www.lco.somerset.pa.us
+co.somerset.pa.us
 sullivancounty-pa.us
 susqco.com
 tiogacountypa.us
@@ -2009,7 +2009,7 @@ townofmiddlebury.org
 hennepin.us
 olmstedcounty.gov
 co.sherburne.mn.us
-co.beltrami.mn.us
+www.co.beltrami.mn.us
 ramseycounty.us
 chisagocounty.us
 co.koochiching.mn.us
@@ -2035,10 +2035,10 @@ anokacounty.us
 co.lake.mn.us
 co.washington.mn.us
 co.norman.mn.us
-co.meeker.mn.us
+www.co.meeker.mn.us
 co.red-lake.mn.us
 co.goodhue.mn.us
-co.winona.mn.us
+www.co.winona.mn.us
 co.nicollet.mn.us
 blueearthcountymn.gov
 co.carver.mn.us
@@ -2073,4 +2073,3 @@ sumnertn.org
 williamsoncounty-tn.gov
 washingtoncountytn.org
 wilsoncountytn.gov
-
