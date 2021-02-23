@@ -183,8 +183,23 @@ int main()
                 domain = "domain; unknown;";
             }
 
+        string cert_type;
 
-        file2 << line2 << ";" << tls_value << ";" << expired << self1 << result3 << domain << endl;
+        if (mystring.find("EV") != std::string::npos) 
+            {
+                cert_type = "cert_type; EV;";
+            } else if (mystring.find("Extended Validation") != std::string::npos) 
+            {
+                cert_type = "cert_type; EV;";
+            } 
+            else {
+
+                
+                cert_type = "cert_type; non-EV;";
+                
+            }
+          
+        file2 << line2 << ";" << tls_value << ";" << expired << self1 << result3 << domain << cert_type << endl;
               
             file2.close();
                  }
