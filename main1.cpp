@@ -31,7 +31,7 @@ std::string issuer("Issuer: commonName=");
 std::string Country_CH ("countryName=CH");
 std::string Country_GB ("countryName=GB");
 std::string Country_BE ("countryName=BE");
-
+int score = 0;
 std::string line;
 std::string http_status ("HTTP/1.1 301 Moved Permanently");
 //std::string http_status ("Strict");
@@ -70,6 +70,7 @@ string sweet_find(string mystring){
       return sweet_result;
    }else{
            string sweet_result = " NOT VULNERABLE";
+           ++score;
            return sweet_result;
       }
         
@@ -83,7 +84,7 @@ string sweet_result = sweet_find(mystring);
         if (mystring.find(str2) != std::string::npos) 
         {
                 string test =  "Country Code; US;";
-                
+                ++score;
                 result1 = test;
 
         } else if (mystring.find(Country_CH) != std::string::npos) 
@@ -105,7 +106,7 @@ string sweet_result = sweet_find(mystring);
          }else if (mystring.find("issuer=C = US") != std::string::npos) 
         {
                   string test = "Country Code; US;" ;
-        
+                  ++score;
         }else if (mystring.find("issuer=C = RU") != std::string::npos) 
         {
                   string test = "Country Code; RU;" ;
@@ -229,10 +230,10 @@ string http_check(string line)
       
        if (readBuffer.find("HTTP/1.1 301 Moved Permanently") != std::string::npos){
               result3 = "HTTP/1.1 301 Moved Permanently";
-             
+                  ++score;
              } else if (readBuffer.find(http_status1) != std::string::npos){
               result3 = "HTTP/1.1 302 Redirect";
-              
+              ++score;
              } else if (readBuffer.find(http_status2) != std::string::npos){
               result3 = "1.1 404 Not Found";
 
@@ -241,31 +242,31 @@ string http_check(string line)
 
             } else if (readBuffer.find(http_status4) != std::string::npos){
               result3 = "HTTP/1.0 302 Moved Temporarily";
-
+                  ++score;
             } else if (readBuffer.find(http_status5) != std::string::npos){
              result3 = "HTTP/1.1 302 Found : Moved Temporarily";
-
+                  ++score;
              } else if (readBuffer.find(http_status6) != std::string::npos){
              result3 = "HTTP/1.1 302 Object moved";
-
+                  ++score;
              } else if (readBuffer.find(http_status7) != std::string::npos){
              result3 = "HTTP/1.1 302 Found";
-
+                  ++score;
              } else if (readBuffer.find(http_status8) != std::string::npos){
              result3 = "HTTP/1.0 301 Moved Permanently";
-
+                        ++score;
              } else if (readBuffer.find(http_status9) != std::string::npos){
              result3 = "HTTP/1.1 500 Internal Server Error";
 
              } else if (readBuffer.find(http_status10) != std::string::npos){
              result3 = "HTTP/1.0 302 Found";
-
+                        ++score;
             } else if (readBuffer.find(http_status11) != std::string::npos){
             result3 = "HTTP/1.1 307 Moved Temporarily";
-
+                        ++score;
              } else if (readBuffer.find(http_status12) != std::string::npos){
             result3 = "HTTP/1.1 301";
-
+                        ++score;
              } else if (readBuffer.find(http_status13) != std::string::npos){
             result3 = "HTTP/1.1 302 Moved Temporarily";
 
@@ -304,6 +305,7 @@ string hsts_check(string line){
       }
       if (hsts_buffer.find(hsts_status) != std::string::npos){
               result5 = "Strict Trasport Security Found";
+              ++score;
            }else
             {
                   result5 = "No HSTS";
@@ -320,6 +322,7 @@ string hb_str = "heartbleed";
 if (mystring.find(hb_str) != std::string::npos) 
             {
               string hb_result = ";Heartbleed;Found";
+              ++score;
               return hb_result;
 } else {
               string hb_result  = ";Heartbleed;not found";
@@ -343,6 +346,7 @@ if (mystring.find("80/tcp  open  http") != std::string::npos)
    
     } else {
            string tls_result = ";PORT 80;Closed;";
+           ++score;
            return tls_result;
 
      }      
@@ -354,6 +358,7 @@ string poodle_str = "poodle";
 if (mystring.find(poodle_str) != std::string::npos) 
             {
               string poodle_result = "Poodle;Found;";
+              ++score;
               return poodle_result;
             } else {
               string poodle_result  = "Poodle;not found;";
@@ -399,6 +404,7 @@ string drown_check(string mystring){
               return drown_result;
             } else {
               string drown_result  = ";Drown;not found;";
+              ++score;
               return drown_result;
             
             }
@@ -414,6 +420,7 @@ string freak_check(string mystring){
               return freak_result;
             } else {
               string freak_result  = ";freak;not found;";
+              ++score;
               return freak_result;
             
             }
@@ -452,8 +459,9 @@ int main()
             string result8 = drown_check(mystring);
             string result9 = freak_check(mystring);
             
-            file2 << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
+            file2 << score << ";" << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
             file2.close();
+            score = 0;
                  }
 
       system ("./openssl")     ;     

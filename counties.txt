@@ -154,7 +154,7 @@ co.modoc.ca.us
 tuolumnecounty.ca.gov
 sonomacounty.ca.gov
 co.siskiyou.ca.us
-co.santa-cruz.ca.us
+www.co.santa-cruz.ca.us
 imperialcounty.org
 mariposacounty.org
 maderacounty.com
@@ -1465,7 +1465,7 @@ wilco.org
 co.dewitt.tx.us
 co.donley.tx.us
 co.cottle.tx.us
-valverdecounty.texas.gov
+www.valverdecounty.texas.gov
 co.schleicher.tx.us
 countyofupshur.com
 co.collingsworth.tx.us
@@ -1534,7 +1534,7 @@ spotsylvania.va.us
 countyofamherst.com
 nnva.gov
 dickensonva.org
-appomattoxcountyva.gov
+www.appomattoxcountyva.gov
 co.isle-of-wight.va.us
 roanokecountyva.gov
 www.co.rockbridge.va.us
@@ -1749,7 +1749,7 @@ blairco.org
 bradfordcountypa.org
 buckscounty.org
 butlercountypa.gov
-cambriacountypa.gov
+www.cambriacountypa.gov
 cameroncountypa.com
 montcopa.org
 lehighcounty.org
@@ -1796,7 +1796,7 @@ pikepa.org
 pottercountypa.net
 co.schuylkill.pa.us
 snydercounty.org
-co.somerset.pa.us
+www.co.somerset.pa.us
 sullivancounty-pa.us
 susqco.com
 tiogacountypa.us

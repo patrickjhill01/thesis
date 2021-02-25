@@ -12,6 +12,7 @@
 using namespace std;
 char buffer[6000];
 fstream file2;
+int score1 = 0;
 std::string execCommand(string cmd, int& out_exitStatus)
 {
     out_exitStatus = 0;
@@ -50,7 +51,7 @@ string state_issuer(string mystring)
      if (mystring.find("C = US") != std::string::npos) 
         {
                 string test =  "Country Code; US;";
-                
+                ++score1;
                 result2 = test;
                 return result2;
 
@@ -123,16 +124,19 @@ int main()
         string result3 = state_issuer(mystring);
         if (mystring.find("1.2") != std::string::npos){
             tls_value = "TLS 1.2";
-
+            ++score1;++score1;
         } else if (mystring.find("1.1") != std::string::npos){
             tls_value = "TLS 1.1";
-
+            ++score1;
         } else if (mystring.find("1.3") != std::string::npos){
             tls_value = "TLS 1.3";
+            ++score1;++score1;++score1;
         } else if (mystring.find("1.1") != std::string::npos){
             tls_value = "TLS 1.1";
+            
         } else if (mystring.find("1.0") != std::string::npos){
             tls_value = "TLS 1.0";
+          
         } else if (mystring.find("Cipher is (NONE)") != std::string::npos){
             tls_value = "No TLS";
 
@@ -147,6 +151,7 @@ int main()
         } else {
 
             self1 = ";certficate; not self-signed;";
+            ++score1;
         }
 
 
@@ -156,12 +161,14 @@ int main()
             
             } else {
                 expired = "certificate; not expired;";
+                ++score1;
       
             }
         string domain; 
         if (line2.find(".gov") != std::string::npos) 
             {
                 domain = "domain; .gov;";
+                ++score1;
             }
         else if (line2.find(".net") != std::string::npos) 
             {
@@ -170,6 +177,7 @@ int main()
         else if (line2.find(".us") != std::string::npos) 
             {
                 domain = "domain; .us;";
+                ++score1;
             }
         else if (line2.find(".org") != std::string::npos) 
             {
@@ -192,6 +200,7 @@ int main()
             } else if (mystring.find("Extended Validation") != std::string::npos) 
             {
                 cert_type = "cert_type; EV;";
+                ++score1;
             } 
             else {
 
@@ -200,9 +209,11 @@ int main()
                 
             }
           
-        file2 << line2 << ";" << tls_value << ";" << expired << self1 << result3 << domain << cert_type << endl;
+        file2 << score1 << ";" << line2 << ";" << tls_value << ";" << expired << self1 << result3 << domain << cert_type << endl;
               
             file2.close();
+
+            score1 = 0;
                  }
        }
       
