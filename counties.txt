@@ -43,7 +43,7 @@ jacksoncountyal.gov
 covcounty.com
 houstoncounty.org
 montgomeryal.gov
-cherokeecounty-al.gov
+www.cherokeecounty-al.gov
 franklincountyal.org
 chamberscountyal.gov
 henrycountyal.com
@@ -929,7 +929,7 @@ pendercountync.gov
 perquimanscountync.gov
 co.robeson.nc.us
 harnett.org
-www.bladennc.gov
+bladennc.govoffice3.com
 dconc.gov
 co.iredell.nc.us
 alamance-nc.com
@@ -1311,7 +1311,7 @@ clackamas.us
 deschutes.org
 co.coos.or.us
 co.hood-river.or.us
-www.malheurco.org
+malheurco.org
 co.washington.or.us
 co.harney.or.us
 co.clatsop.or.us

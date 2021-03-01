@@ -12,7 +12,7 @@
 7;dekalbcountyal.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 7;cleburnecounty.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 2;tallaco.com;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .com;cert_type; non-EV;
-5;talladegacountyal.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
+2;talladegacountyal.org;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
 5;sumtercountyal.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;crenshawcountyalonline.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;bibbal.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
@@ -43,7 +43,7 @@
 4;covcounty.com;TLS 1.3;certificate; expired;;certficate; not self-signed;Country Code; BE;domain; .com;cert_type; non-EV;
 5;houstoncounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 3;montgomeryal.gov;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
-6;cherokeecounty-al.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
+6;www.cherokeecounty-al.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;franklincountyal.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;chamberscountyal.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;henrycountyal.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
@@ -51,7 +51,7 @@
 6;auburnalabama.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;maconcountyal.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;alabama.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
-5;cityofsearcy.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
+4;cityofsearcy.org;TLS 1.2;certificate; expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;pulaskicounty.net;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; non-EV;
 5;craigheadcounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;washingtoncountyar.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
@@ -158,7 +158,7 @@
 6;imperialcounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;mariposacounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 5;maderacounty.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
-7;co.tehama.ca.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
+7;co.tehama.ca.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 3;co.del-norte.ca.us;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 6;co.monterey.ca.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;plumascounty.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
@@ -229,7 +229,7 @@
 5;nccde.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;co.kent.de.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 6;sussexcountyde.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
-6;delaware.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
+3;delaware.gov;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
 6;broward.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 7;miamidade.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 5;pinellascounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
@@ -353,7 +353,7 @@
 6;co.nezperce.id.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 5;cityofboise.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 2;lemhicountyidaho.org;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
-6;tetoncountyidaho.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
+6;tetoncountyidaho.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 5;goodingcounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 7;idahofallsidaho.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 7;bannockcounty.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
@@ -389,7 +389,7 @@
 6;co.sangamon.il.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 5;dupageco.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;co.st-clair.il.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
-5;willcountyillinois.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
+5;willcountyillinois.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 5;pulaskicountyil.net;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; non-EV;
 5;jodaviess.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 3;macoupincountyil.gov;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
@@ -453,7 +453,7 @@
 6;nobleco.squarespace.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;boonecounty.in.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;morgancounty.in.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
-7;laporteco.in.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
+7;laporteco.in.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;parkecounty-in.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 5;hancockcoingov.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;co.fulton.in.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
@@ -508,7 +508,7 @@
 7;appanoosecounty.iowa.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 7;winnebagocountyiowa.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;emmetcounty.iowa.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
-6;keokukcounty.iowa.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
+6;keokukcounty.iowa.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;wapellocounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 7;johnsoncountyiowa.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 7;obriencounty.iowa.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
@@ -593,7 +593,7 @@
 6;portal.kansas.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 7;fayettecountyga.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;breathittcounty.ky.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
-6;pulaskigov.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
+5;pulaskigov.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; BE;domain; .com;cert_type; EV;
 6;daviessky.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;magoffincounty.ky.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 7;louisvilleky.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
@@ -632,7 +632,7 @@
 3;oldhamcountyky.gov;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
 6;pikecountyky.gov;TLS 1.3;certificate; not expired;;certificate;self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;clarkcoky.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
-7;greenupcountyky.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
+7;greenupcountyky.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;meadeky.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 7;franklincounty.ky.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 4;paducahky.gov;TLS 1.2;certificate; not expired;;certificate;self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
@@ -726,7 +726,7 @@
 6;oxfordcounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 7;piscataquis.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;sagadahoccountyme.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
-6;somersetcounty-me.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
+6;somersetcounty-me.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;washingtoncountymaine.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 7;franklincounty.maine.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;waldocountyme.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
@@ -743,7 +743,7 @@
 5;grandtraverse.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 2;antrimcounty.org;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
 5;lapeercountyweb.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; EV;
-6;arenaccountymi.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
+3;arenaccountymi.gov;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
 5;wexfordcounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;oscodacountymi.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;gladwincounty-mi.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
@@ -751,7 +751,7 @@
 6;gogebiccountymi.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 3;leelanau.gov;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
 5;berriencounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
-5;shiawassee.net;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; EV;
+2;shiawassee.net;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .net;cert_type; non-EV;
 5;saginawcounty.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 5;ioniacounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;tuscolacounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
@@ -842,7 +842,7 @@
 2;calhouncoms.com;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .com;cert_type; non-EV;
 6;carrollcountyms.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;jacksonms.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
-7;forrestcountyms.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
+7;forrestcountyms.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 3;co.harrison.ms.us;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 4;hindscountyms.com;TLS 1.3;certificate; expired;;certficate; not self-signed;Country Code; BE;domain; .com;cert_type; non-EV;
 6;co.jackson.ms.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
@@ -865,7 +865,7 @@
 7;lccountymt.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 5;meagherco.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;directory.mt.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
-6;beaverheadcounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
+6;beaverheadcounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;co.silverbow.mt.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 6;ponderacountymontana.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;co.judith-basin.mt.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
@@ -915,7 +915,7 @@
 6;nhcgov.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;pasquotankcountync.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;cabarruscounty.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
-6;duplincountync.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
+6;duplincountync.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;onslowcountync.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;catawbacountync.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;carteretcountync.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
@@ -929,17 +929,17 @@
 7;perquimanscountync.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 7;co.robeson.nc.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 5;harnett.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
-3;www.bladennc.gov;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
+6;bladennc.govoffice3.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;dconc.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;co.iredell.nc.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;alamance-nc.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 5;halifaxnc.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 2;wataugacounty.org;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
-2;forsyth.cc;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; unknown;cert_type; non-EV;
+5;forsyth.cc;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; unknown;cert_type; EV;
 6;co.surry.nc.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 2;hokecounty.org;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
 6;haywoodcountync.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
-7;alleghanycounty-nc.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
+7;alleghanycounty-nc.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 4;northamptonnc.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .com;cert_type; non-EV;
 3;yadkincountync.gov;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
 6;jonescountync.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
@@ -999,7 +999,7 @@
 4;logancountynd.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; BE;domain; .com;cert_type; EV;
 5;minotnd.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 5;county.mckenziecounty.net;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; EV;
-5;bowmannd.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
+5;bowmannd.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;mcleancountynd.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;billingscountynd.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 5;wellscountynd.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
@@ -1023,14 +1023,14 @@
 6;co.gosper.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;thurstoncountynebraska.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 5;colfaxne.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
-6;co.keya-paha.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
+6;co.keya-paha.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;dundycounty.nebraska.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;co.red-willow.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;countyofsewardne.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;nemahacounty.ne.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;saunderscounty.ne.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;co.otoe.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
-6;co.nance.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
+6;co.nance.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;nuckollscounty.ne.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;co.custer.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 6;dawes-county.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
@@ -1061,7 +1061,7 @@
 6;co.pierce.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;kearneycounty.ne.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;co.jefferson.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
-6;adamscounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
+6;adamscounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;cheyennecountyne.net;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; non-EV;
 6;co.boone.ne.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;nebraska.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
@@ -1094,7 +1094,7 @@
 6;atlantic-county.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;co.ocean.nj.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 6;capemaycountynj.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
-5;camdencounty.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
+5;camdencounty.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 7;salemcountynj.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 3;co.warren.nj.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 3;co.cumberland.nj.us;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
@@ -1105,7 +1105,7 @@
 2;rio-arriba.org;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
 6;losalamosnm.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 5;co.colfax.nm.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
-6;torrancecountynm.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
+6;torrancecountynm.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 5;taoscounty.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;catroncounty.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 6;donaanacounty.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
@@ -1186,7 +1186,7 @@
 6;co.genesee.ny.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 5;albanycounty.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 6;orleanscountyny.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
-2;alleganyco.com;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .com;cert_type; non-EV;
+6;alleganyco.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;co.ontario.ny.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 2;orangecountygov.com;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .com;cert_type; non-EV;
 5;clintoncountygov.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
@@ -1311,7 +1311,7 @@
 6;deschutes.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 7;co.coos.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;co.hood-river.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
-5;www.malheurco.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
+5;malheurco.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 6;co.washington.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 7;co.harney.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 7;co.clatsop.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
@@ -1321,7 +1321,7 @@
 6;co.tillamook.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 6;co.marion.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 5;www.co.gilliam.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
-3;co.umatilla.or.us;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
+3;co.umatilla.or.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 6;douglascounty-oregon.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 5;jacksoncountyor.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
 6;co.josephine.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
@@ -1333,7 +1333,7 @@
 6;jeffco.net;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; non-EV;
 6;co.curry.or.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 7;co.lincoln.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
-7;www.co.polk.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
+7;www.co.polk.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 7;co.benton.or.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 7;columbiacountyor.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 5;lakecountyor.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
@@ -1465,7 +1465,7 @@
 3;co.dewitt.tx.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 3;co.donley.tx.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 3;co.cottle.tx.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
-6;www.valverdecounty.texas.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
+3;www.valverdecounty.texas.gov;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;
 3;co.schleicher.tx.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
 5;countyofupshur.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 3;co.collingsworth.tx.us;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .us;cert_type; non-EV;
@@ -1557,7 +1557,7 @@
 5;nvda.net;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .net;cert_type; non-EV;
 6;ccrpcvt.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;bcrcvt.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
-5;lcpcvt.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
+5;lcpcvt.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;rutlandcity.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;grandislevt.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;vermont.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
@@ -1909,12 +1909,12 @@
 5;homeralaska.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 3;nomealaska.org;TLS 1.2;certificate; not expired;;certificate;self-signed;Country Code; Unknown;domain; .org;cert_type; non-EV;
 2;cityofwasilla.com;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .com;cert_type; non-EV;
-5;seward.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
+5;seward.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
 7;city.kodiak.ak.us;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; EV;
 2;kenai.city;unknown;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; unknown;cert_type; non-EV;
 6;palmerak.org;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;soldotna.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
-6;skagway.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
+6;skagway.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 7;whittieralaska.gov;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 5;cityofbethel.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; non-EV;
 5;valdezalaska.org;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .org;cert_type; EV;
@@ -1956,7 +1956,7 @@
 6;morgantonnc.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; EV;
 6;waynesvillenc.gov;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .gov;cert_type; non-EV;
 6;ci.kinston.nc.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
-5;www.cityofec.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; EV;
+5;www.cityofec.com;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;visitmayberry.com;TLS 1.3;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .com;cert_type; non-EV;
 6;hollyspringsnc.us;TLS 1.2;certificate; not expired;;certficate; not self-signed;Country Code; US;domain; .us;cert_type; non-EV;
 3;garnernc.gov;No TLS;certificate; not expired;;certficate; not self-signed;Country Code; Unknown;domain; .gov;cert_type; non-EV;

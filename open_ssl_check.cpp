@@ -139,7 +139,7 @@ int main()
           
         } else if (mystring.find("Cipher is (NONE)") != std::string::npos){
             tls_value = "No TLS";
-
+        
                
         }else {
             tls_value = "unknown";
@@ -192,7 +192,13 @@ int main()
                 domain = "domain; unknown;";
             }
 
+    
+
+            
+
         string cert_type;
+
+        
 
         if (mystring.find("EV") != std::string::npos) 
             {

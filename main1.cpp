@@ -220,6 +220,7 @@ string http_check(string line)
       if(curl) 
       {
             curl_easy_setopt(curl, CURLOPT_URL, http_result);
+            curl_easy_setopt(curl, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_2_0);
             curl_easy_setopt(curl, CURLOPT_HEADER, 1);
             curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
             curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
@@ -236,7 +237,9 @@ string http_check(string line)
               ++score;
              } else if (readBuffer.find(http_status2) != std::string::npos){
               result3 = "1.1 404 Not Found";
-
+             } else if (readBuffer.find("HTTP/2") != std::string::npos){
+              result3 = "HTTP 2.0";
+                  ++score;++score;
             } else if (readBuffer.find(http_status3) != std::string::npos){
               result3 = "HTTP/1.1 200 OK";
 
