@@ -273,6 +273,10 @@ string http_check(string line)
              } else if (readBuffer.find(http_status13) != std::string::npos){
             result3 = "HTTP/1.1 302 Moved Temporarily";
 
+            } else if (readBuffer.find("HTTP/1.1 40") != std::string::npos){
+            result3 = "HTTP 4XX";
+
+            
             }else
             {
                   result3 = "Unknown";
@@ -325,10 +329,11 @@ string hb_str = "heartbleed";
 if (mystring.find(hb_str) != std::string::npos) 
             {
               string hb_result = ";Heartbleed;Found";
-              ++score;
+              
               return hb_result;
 } else {
               string hb_result  = ";Heartbleed;not found";
+              ++score;
               return hb_result;
             }
        
@@ -361,10 +366,11 @@ string poodle_str = "poodle";
 if (mystring.find(poodle_str) != std::string::npos) 
             {
               string poodle_result = "Poodle;Found;";
-              ++score;
+              
               return poodle_result;
             } else {
               string poodle_result  = "Poodle;not found;";
+              ++score;
               return poodle_result;
             }
 }

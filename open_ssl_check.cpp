@@ -131,9 +131,7 @@ int main()
         } else if (mystring.find("1.3") != std::string::npos){
             tls_value = "TLS 1.3";
             ++score1;++score1;++score1;
-        } else if (mystring.find("1.1") != std::string::npos){
-            tls_value = "TLS 1.1";
-            
+       
         } else if (mystring.find("1.0") != std::string::npos){
             tls_value = "TLS 1.0";
           
@@ -168,7 +166,7 @@ int main()
         if (line2.find(".gov") != std::string::npos) 
             {
                 domain = "domain; .gov;";
-                ++score1;
+                ++score1;++score1;
             }
         else if (line2.find(".net") != std::string::npos) 
             {
