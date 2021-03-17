@@ -450,7 +450,9 @@ int main()
         file2.open ("results.csv", fstream::in | fstream::out | fstream::app);      
         char *cstr = new char[line.length() + 1];
         strcpy(cstr, line.c_str());
+        
         char *command = "nmap -p 80,443 --script=ssl-enum-ciphers,ssl-cert,ssl-poodle,ssl-heartbleed,sslv2-drown " ; //issuer
+        
         char result[200]; // array to hold the result.
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.

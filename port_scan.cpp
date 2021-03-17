@@ -16,6 +16,7 @@
 #include <mutex>
 #include <array>
 #include<unistd.h>
+
 using namespace std;
 fstream file3;
 fstream file2;
@@ -28,7 +29,7 @@ char buffer2[50];
 using namespace std; 
 int countOccurences(char *str, string word) 
 { 
-  cout << "we are here";
+ 
     char *p; 
   
     // split the string by spaces in a 
@@ -60,7 +61,7 @@ std::string execCommand(string cmd, int& out_exitStatus)
         throw std::runtime_error("Cannot open pipe");
     }
 
-    std::array<char, 256> buffer;
+    std::array<char, 512> buffer;
 
     std::string result;
 
@@ -102,16 +103,96 @@ int main()
         string str = mystring ;
         char *cstr1 = &str[0]; 
         
-        countOccurences(cstr1, word) ;     
-        
-        cout << countOccurences(cstr1, word);
+        int value = countOccurences(cstr1, word);
+       sleep(15);
+        string ftp;
+        string ssh;
+        string telnet;
+        string smtp;
+        string dns;
+        string netbios;
+        string smb;
+        string rdp;
+        string sql;
+
+        if (mystring.find("21/tcp") != std::string::npos) 
+            {
+                ftp = ";ftp;";
+            
+            } 
+         if (mystring.find("22/tcp") != std::string::npos) 
+            {
+                ssh = ";ssh;";
+            
+            }
+        if (mystring.find("23/tcp") != std::string::npos) 
+            {
+               telnet = ";telnet;";
+            
+            }
+         if (mystring.find("25/tcp") != std::string::npos) 
+            {
+                smtp = ";smtp;";
+            
+            }
+         if (mystring.find("53/tcp") != std::string::npos) 
+            {
+                dns = ";dns;";
+            
+            }
+         if (mystring.find("139/tcp") != std::string::npos) 
+            {
+                netbios = ";netbios;";
+            
+            }
+         if (mystring.find("445/tcp") != std::string::npos) 
+            {
+                smb = ";smb;";
+            
+            }
+         if (mystring.find("1433/tcp") != std::string::npos) 
+            {
+                sql = ";sql;";
+            
+            } 
+
+        if (mystring.find("3389/tcp") != std::string::npos) 
+            {
+                rdp = ";rdp;";
+              }
+        if (mystring.find("1434/tcp") != std::string::npos) 
+            {
+                sql = ";sql;";
+            
+            }
+       if (mystring.find("443/tcp") != std::string::npos) 
+            {
+                value--;
+            
+            } else {
+                value ;
+      
+            }
+       if (mystring.find("80/tcp") != std::string::npos) 
+            {
+                value--;
+            
+            } else {
+                value ;
+      
+            }
+   
+
+
+
+         file2 << line << ";" << value << ";" << ftp << ssh << telnet << smtp << dns << netbios <<  smb << rdp << sql << endl;
         //file2 << score << ";" << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
 
 
 
         file2.close();
-        
-        
-      // syste
+       
+
         }
+        system ("./port_scan")     ; 
       }
