@@ -219,5 +219,7 @@ int main()
 
             score1 = 0;
                  }
+
+       
        }
       

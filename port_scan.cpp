@@ -194,5 +194,5 @@ int main()
        
 
         }
-        system ("./port_scan")     ; 
+        system("./openssl"); 
       }

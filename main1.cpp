@@ -475,7 +475,8 @@ int main()
             score = 0;
                  }
 
-      system ("./openssl")     ;     
+     int ssl = system ("./port_scan")     ;     
+
        }
       
      
