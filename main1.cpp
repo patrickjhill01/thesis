@@ -328,11 +328,11 @@ string heartbleed_check(string mystring){
 string hb_str = "heartbleed";
 if (mystring.find(hb_str) != std::string::npos) 
             {
-              string hb_result = ";Heartbleed;Found";
+              string hb_result = ";Heartbleed;VULNERABLE";
               
               return hb_result;
 } else {
-              string hb_result  = ";Heartbleed;not found";
+              string hb_result  = ";Heartbleed;NOT VULNERABLE";
               ++score;
               return hb_result;
             }
@@ -365,11 +365,11 @@ string poodle_check(string mystring)
 string poodle_str = "poodle";
 if (mystring.find(poodle_str) != std::string::npos) 
             {
-              string poodle_result = "Poodle;Found;";
+              string poodle_result = "Poodle;VULNERABLE;";
               
               return poodle_result;
             } else {
-              string poodle_result  = "Poodle;not found;";
+              string poodle_result  = "Poodle;NOT VULNERABLE;";
               ++score;
               return poodle_result;
             }
@@ -409,10 +409,10 @@ string drown_check(string mystring){
       string drown_str = "DROWN";
       if (mystring.find(drown_str) != std::string::npos) 
             {
-              string drown_result = ";Drown;Found;";
+              string drown_result = ";Drown;VULNERABLE;";
               return drown_result;
             } else {
-              string drown_result  = ";Drown;not found;";
+              string drown_result  = ";Drown;NOT VULNERABLE;";
               ++score;
               return drown_result;
             
@@ -425,10 +425,10 @@ string freak_check(string mystring){
       string freak_str = "EXPORT";
       if (mystring.find(freak_str) != std::string::npos) 
             {
-              string freak_result = ";freak;Found;";
+              string freak_result = ";freak;VULNERABLE;";
               return freak_result;
             } else {
-              string freak_result  = ";freak;not found;";
+              string freak_result  = ";freak;NOT VULNERABLE;";
               ++score;
               return freak_result;
             
@@ -457,9 +457,18 @@ int main()
         strcpy(result,command); // copy string one into the result.
         strcat(result,cstr); // append string two to the result.
         int exitStatus = 0;
-        cout << " Checking: " << line << '\n';
-            string mystring = execCommand(result, exitStatus);
-        
+        cout << " Checking: " << line << " HTTP, HTTPS, HSTS Adoption, Vulnerability Status, TLS Version, Certificate Issuer" << '\n';
+
+
+      string mystring = execCommand(result, exitStatus);
+
+
+      if (mystring.find("Failed to resolve") != std::string::npos) 
+            {
+              file2 << line << ";" << "faild to resolve"; 
+              file2.close();
+               score = 0;
+            } else {
             string result1 = country_code(mystring, line);
             string result4 = heartbleed_check(mystring);
             string result2 = certificate_issuer_name(mystring, line);
@@ -473,9 +482,13 @@ int main()
             file2 << score << ";" << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
             file2.close();
             score = 0;
+            
+            }
+   
+            
                  }
 
-     int ssl = system ("./port_scan")     ;     
+     system ("./port_scan")     ;     
 
        }
       

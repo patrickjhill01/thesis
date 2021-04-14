@@ -212,7 +212,7 @@ int main()
                 cert_type = "cert_type; non-EV;";
                 
             }
-          
+        cout << " Checking: " << line << "Certificate Country Code, Certificate Issuer, Certificate Typer, Certificate Signing and Expiry Status" << '\n';
         file2 << score1 << ";" << line2 << ";" << tls_value << ";" << expired << self1 << result3 << domain << cert_type << endl;
               
             file2.close();

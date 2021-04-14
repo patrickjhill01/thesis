@@ -104,7 +104,7 @@ int main()
         char *cstr1 = &str[0]; 
         
         int value = countOccurences(cstr1, word);
-       sleep(15);
+       sleep(5);
         string ftp;
         string ssh;
         string telnet;
@@ -114,6 +114,7 @@ int main()
         string smb;
         string rdp;
         string sql;
+        string tcp;
 
         if (mystring.find("21/tcp") != std::string::npos) 
             {
@@ -175,6 +176,7 @@ int main()
             }
        if (mystring.find("80/tcp") != std::string::npos) 
             {
+                tcp = ";port 80;";
                 value--;
             
             } else {
@@ -183,9 +185,9 @@ int main()
             }
    
 
+            cout << " Checking: " << line << " Open Ports" << '\n';
 
-
-         file2 << line << ";" << value << ";" << ftp << ssh << telnet << smtp << dns << netbios <<  smb << rdp << sql << endl;
+         file2 << line << ";" << value << ";" << tcp << ftp << ssh << telnet << smtp << dns << netbios <<  smb << rdp << sql << endl;
         //file2 << score << ";" << line << ";" << result1 << "; Certificate Issuer; " << result2 <<  "; http_check;" << result3 << result4 << ";" << ";hsts_check;" << result5  << ";" << result6 << result7 << result8 << result9 << endl;
 
 
